@@ -1,0 +1,1450 @@
+[
+  {
+    "id": "seaveys-ididaride",
+    "name": "Seavey's IdidaRide",
+    "state": "AK",
+    "town": "Seward",
+    "summary": "Seavey's IdidaRide sells summer dogsledding from the family homestead in Seward and a helicopter-to-glacier mush from Girdwood. The Seward wilderness visit is a kennel tour plus a two-mile wheeled sled ride; the glacier trip is on snow.",
+    "season": "Wilderness ride May 13\u2013September 21; Real Alaska day tour May 22\u2013September 13; glacier heli-mushing May\u2013August. The tours page reviewed is the summer program.",
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": false,
+    "duration": "1.5 hours (Seward wilderness ride); 6 hours (Seward day tour that includes the ride); 1.75 hours (Girdwood glacier).",
+    "priceMin": 119,
+    "priceMax": 739,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Wilderness ride: adults $119, children $59.50. Real Alaska day tour: adults $217, children $113.50. Glacier heli-mushing: $739 for adults and children. Four daily wilderness departures; five daily glacier departures.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Children's fares are published. A minimum age is not stated on the tours page. Puppies are described as typically present from late May through September.",
+    "bookingUrl": "https://ididaride.com/tours/",
+    "website": "https://ididaride.com/",
+    "sources": [
+      {
+        "url": "https://ididaride.com/tours/",
+        "retrieved": "2026-11-19",
+        "what": "Summer tour prices, dates, durations, and locations"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "alaskan-husky-adventures",
+    "name": "Alaskan Husky Adventures",
+    "state": "AK",
+    "town": "Willow",
+    "summary": "Alaskan Husky Adventures runs sled and cart rides on private trails in Willow, about an hour from Anchorage, plus a separate kennel tour. Winter options include a guide-driven ride and a January\u2013February trip where the guest drives.",
+    "season": "Kennel tour on select dates May\u2013October. Summer sled ride June\u2013September. Winter ride November\u2013April. Mush-your-own January\u2013February. Run with the Pack January\u2013April. Mountain mushing late March\u2013early May.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "Kennel tour 1 hour. Summer and winter rides 1.5 hours. Mush-your-own 2 hours. Run with the Pack 3 hours. Mountain mushing 3.5 hours.",
+    "priceMin": 69,
+    "priceMax": 499,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Kennel tour $69. Summer sled ride $145, youth ages 3\u201312 $125. Winter ride $165, youth $145. Mush your own team $275 (ages 14+). Run with the Pack $499 (ages 14+). Mountain mushing $385, youth $355. Shuttle from Anchorage is an extra $125 per hour.",
+    "minAge": "3 years on standard rides; 14 years on Mush Your Own and Run with the Pack",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Standard rides state ages 3+. Youth rates cover ages 3\u201312. Mush Your Own and Run with the Pack state ages 14+.",
+    "bookingUrl": "https://akhusky.dog/dogsled-rides",
+    "website": "https://akhusky.dog/",
+    "sources": [
+      {
+        "url": "https://akhusky.dog/dogsled-rides",
+        "retrieved": "2026-11-19",
+        "what": "Ride, kennel, and mush-your-own prices, ages, and seasons"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "snowhook-adventure-guides",
+    "name": "Snowhook Adventure Guides",
+    "state": "AK",
+    "town": "Willow",
+    "summary": "Snowhook Adventure Guides runs dog sled and summer cart tours from a base in Willow, with some routes toward Hatcher Pass. Standard visits are about two hours; longer packages add snowmobiling, lodging, or fishing.",
+    "season": "Summer cart May\u2013September. Fall sled September\u2013October. Winter sled described as October\u2013May in one place and November through early May in another.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "Standard sled or cart tour 2 hours. Dog-sled and snowmobile combo 6 hours. Multi-day packages are also listed.",
+    "priceMin": 55,
+    "priceMax": 145,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Summer cart and fall sled from $55 per person. Winter two-hour sled from $145 per person. Combo and multi-day prices are also published (dog sled and snowmobile from $334; a 3-day northern-lights package at $1,450; an Iditarod weekend from $1,800). The band uses the standard sled and cart starting rates.",
+    "minAge": "Recommended minimum age 3; children must be with an adult",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The site says tours are suitable for all ages and abilities, with a recommended minimum age of 3. One evening description says guests can ride or help drive.",
+    "bookingUrl": "https://snowhookadventures.com/dog-sled-rides/",
+    "website": "https://snowhookadventures.com/",
+    "sources": [
+      {
+        "url": "https://snowhookadventures.com/dog-sled-rides/",
+        "retrieved": "2026-11-19",
+        "what": "Seasonal from-prices, age note, Willow base, and drive option"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "alaska-sled-dog-tours",
+    "name": "Alaska Sled Dog Tours",
+    "state": "AK",
+    "town": "Talkeetna",
+    "summary": "Alaska Sled Dog Tours is the Dallas Seavey kennel operation in Talkeetna. Guests mush their own team on dryland rigs from May through October and on snow from November through April; a passenger-only option is offered for people who do not want to drive.",
+    "season": "Dryland May\u2013October. Glacier tours May\u2013September. Winter tours November\u2013April.",
+    "tourTypes": [
+      "drive-your-own",
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "About 2 hours at the kennel with about 45 minutes on the trail for the dryland and winter visits.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": "6 years to ride; ages 6\u201314 ride only and do not drive",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The FAQ says the tour is for children 6 and up, with occasional exceptions for age 5 and under if scheduling allows. Children 6\u201314 are riding-only guests.",
+    "bookingUrl": "https://sleddogtours.com/winter-tours/",
+    "website": "https://sleddogtours.com/",
+    "sources": [
+      {
+        "url": "https://sleddogtours.com/",
+        "retrieved": "2026-11-19",
+        "what": "Season windows and Talkeetna location"
+      },
+      {
+        "url": "https://sleddogtours.com/dryland-tours/",
+        "retrieved": "2026-11-19",
+        "what": "Dryland itinerary and drive-your-own option"
+      },
+      {
+        "url": "https://sleddogtours.com/winter-tours/",
+        "retrieved": "2026-11-19",
+        "what": "Winter 45-minute mush"
+      },
+      {
+        "url": "https://sleddogtours.com/faq/",
+        "retrieved": "2026-11-19",
+        "what": "Child ages and driving rules"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "black-spruce-dog-sledding",
+    "name": "Black Spruce Dog Sledding",
+    "state": "AK",
+    "town": "Fairbanks",
+    "summary": "Black Spruce Dog Sledding, run by Jeff and KattiJo Deeter, offers a winter tag-sled tour northwest of Fairbanks in which a guide drives the lead sled and the guest drives a second sled towed behind it. Summer products on the same site are a wheeled safari and a husky hike.",
+    "season": "Scenic day mushing November\u2013April, usually after about 1.5 feet of snow. If snow is short, the site says the Sled Dog Safari runs instead.",
+    "tourTypes": [
+      "drive-your-own",
+      "ride-along"
+    ],
+    "driveYourOwn": true,
+    "duration": "1.5\u20132.5 hours on site, with about 45 minutes on a trail of about 5 miles.",
+    "priceMin": 185,
+    "priceMax": 185,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Scenic day mushing is $185 per person, ages 12 and older. No military, first-responder, or group discount is listed for this tour. Summer safari and husky-hike prices were not on this page.",
+    "minAge": "12 years for the scenic day mush, effective November 2025",
+    "weightLimit": "250 pounds per person",
+    "kidFriendly": false,
+    "kidNote": "Beginning November 2025 the scenic tour is restricted to ages 12 and older. The site says most other Fairbanks ride-only tours do not use this age limit.",
+    "bookingUrl": "https://blacksprucedogsledding.com/tours/scenic-day-mushing-tour/",
+    "website": "https://blacksprucedogsledding.com/",
+    "sources": [
+      {
+        "url": "https://blacksprucedogsledding.com/",
+        "retrieved": "2026-11-19",
+        "what": "Tag-sled description and Fairbanks tours"
+      },
+      {
+        "url": "https://blacksprucedogsledding.com/tours/scenic-day-mushing-tour/",
+        "retrieved": "2026-11-19",
+        "what": "$185 price, ages 12+, 250 lb limit, season and duration"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "arctic-dog-adventure-co",
+    "name": "Arctic Dog Adventure Co.",
+    "state": "AK",
+    "town": "Fairbanks",
+    "summary": "Arctic Dog Adventure Co. in the Fairbanks area sells small-group day trips and multi-day trips on which guests drive their own Siberian husky team. Day trips are listed as a half day or a full day in winter.",
+    "season": "Half-day tours November\u2013March. Full-day tours December\u2013March. Multi-day trips are also described.",
+    "tourTypes": [
+      "drive-your-own",
+      "overnight"
+    ],
+    "driveYourOwn": true,
+    "duration": "Half day 3 hours. Full day 6 hours. Multi-day length is not given as a single number on the homepage.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://www.arcticdogco.com/",
+    "website": "https://www.arcticdogco.com/",
+    "sources": [
+      {
+        "url": "https://www.arcticdogco.com/",
+        "retrieved": "2026-11-19",
+        "what": "Day-trip lengths, season months, and drive-your-own description"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "alaska-mushing-school",
+    "name": "Alaska Mushing School",
+    "state": "AK",
+    "town": "Anchorage",
+    "summary": "Alaska Mushing School sells a year-round kennel visit about 20 minutes north of downtown Anchorage and winter sled rides with a musher driving. Winter products on the homepage are a 45-minute ride, a 1.5-hour classic ride, and a 3-hour night ride.",
+    "season": "Kennel tour year-round. Dog sled rides listed as winter.",
+    "tourTypes": [
+      "kennel-tour",
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "Kennel tour 1.5 hours. Short ride 45 minutes. Classic ride 1.5 hours. Night ride 3 hours.",
+    "priceMin": 59,
+    "priceMax": 249,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Kennel tour $59. Short winter ride $119. Classic winter ride $169. Night ride $249. Trail distances listed as 3 miles (short) and 6 miles (classic and night).",
+    "minAge": "All ages for the kennel tour; ages 3+ for the sled rides",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The kennel tour is marked all ages. Sled rides are marked ages 3+.",
+    "bookingUrl": "https://www.alaskamushingschool.com/",
+    "website": "https://www.alaskamushingschool.com/",
+    "sources": [
+      {
+        "url": "https://www.alaskamushingschool.com/",
+        "retrieved": "2026-11-19",
+        "what": "Prices, durations, ages, and seasons on the homepage"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "chena-hot-springs-dog-sledding",
+    "name": "Chena Hot Springs Dog Sledding",
+    "state": "AK",
+    "town": "Chena Hot Springs",
+    "summary": "Chena Hot Springs Resort sells a short winter dog sled ride that meets at the dog yard. The published fare is in effect through 20 April 2027, with a higher rate for passengers over 250 pounds.",
+    "season": "Typically mid-November through early April, when there is enough snow. The resort also says the second week of November through the first or second week of April.",
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": false,
+    "duration": "About 20 minutes on a scenic 1.5-mile trail, plus time to meet the dogs after the ride.",
+    "priceMin": 75,
+    "priceMax": 150,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "$75 per person at 250 pounds or under, and $150 per person over 250 pounds. The page says this pricing is valid until 4/20/27. A separate $125 aurora viewing tour on the same page is not a dog sled ride.",
+    "minAge": "2+",
+    "weightLimit": "Rate changes above 250 pounds per person",
+    "kidFriendly": true,
+    "kidNote": "Minimum age is listed as 2+.",
+    "bookingUrl": "https://www.chenahotsprings.com/dog-sledding/",
+    "website": "https://www.chenahotsprings.com/dog-sledding/",
+    "sources": [
+      {
+        "url": "https://www.chenahotsprings.com/dog-sledding/",
+        "retrieved": "2026-11-19",
+        "what": "$75/$150 rates through 4/20/27, age 2+, duration, and season"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "hatcher-pass-tours",
+    "name": "Hatcher Pass Tours",
+    "state": "AK",
+    "town": "Willow",
+    "summary": "Hatcher Pass Tours sells a winter dog sled excursion that starts at its Willow base and uses a heated UTV to reach the trail. The company describes the mushers as an independent co-op; each guide works their own dogs rather than a single company kennel.",
+    "season": "Winter only. Summer UTV tours run May\u2013October, and the dogs are off the sled trail until snow returns.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "A 6\u20137 mile sled run plus the UTV ride to the trailhead. Total clock time is not stated as a single number.",
+    "priceMin": 155,
+    "priceMax": 155,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Standalone dog sled tour $155 per person, including the heated UTV ride. Adding dog sledding to one of their other tours starts at $89 per person.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The page says the tour is for families, couples, and first-time visitors, and that kids and grandparents fit the ride. A numeric minimum age is not stated.",
+    "bookingUrl": "https://hatcherpasstour.com/dog-sledding-tours/",
+    "website": "https://hatcherpasstour.com/dog-sledding-tours/",
+    "sources": [
+      {
+        "url": "https://hatcherpasstour.com/dog-sledding-tours/",
+        "retrieved": "2026-11-19",
+        "what": "$155 price, Willow meeting point, co-op model, and winter-only season"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "paws-for-adventure",
+    "name": "Paws for Adventure",
+    "state": "AK",
+    "town": "Fairbanks",
+    "summary": "Paws for Adventure has offered mushing tours in Fairbanks since 1998. Winter rides are guide-driven; the one-hour and 30-minute tours are priced per person, and a four-hour mushing school is listed separately.",
+    "season": "Winter tours from about the first week of November until the first week of April, when snow is on the ground. Fall cart rides run from the first week of September until snow.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "30-minute tour: 20\u201330 minutes on the trail. One-hour tour: 50\u201360 minutes on the trail.",
+    "priceMin": 95,
+    "priceMax": 190,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "30-minute tour $95 per person. One-hour tour $190 per person. Sleds are for two people from the same party. People over 250 pounds ride alone, and a solo traveler is charged for two seats. If a sled would exceed 400 pounds, guests ride separately at 1.5 times the listed price. Mushing-school and moonlight prices were not on these two pages.",
+    "minAge": null,
+    "weightLimit": "250 pounds to share a sled; 400 pounds combined target per sled",
+    "kidFriendly": null,
+    "kidNote": "The 30-minute tour is suggested for younger children. A numeric minimum age was not on these pages.",
+    "bookingUrl": "https://pawsforadventure.com/tours/one-hour-winter-tour/",
+    "website": "https://pawsforadventure.com/",
+    "sources": [
+      {
+        "url": "https://pawsforadventure.com/",
+        "retrieved": "2026-11-19",
+        "what": "Fairbanks operation and tour menu"
+      },
+      {
+        "url": "https://pawsforadventure.com/tours/short-winter-tour/",
+        "retrieved": "2026-11-19",
+        "what": "$95 thirty-minute tour, season, and weight rules"
+      },
+      {
+        "url": "https://pawsforadventure.com/tours/one-hour-winter-tour/",
+        "retrieved": "2026-11-19",
+        "what": "$190 one-hour tour and weight rules"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "husky-homestead",
+    "name": "Husky Homestead",
+    "state": "AK",
+    "town": "Denali Park",
+    "summary": "Husky Homestead, associated with four-time Iditarod champion Jeff King, sells a 1.5-hour summer kennel visit about eight miles south of the Denali National Park entrance. The 2027 dates and prices are posted. Winter custom tours are offered by inquiry, without a published rate.",
+    "season": "2027 summer tours May 24\u2013September 11, seven days a week. Winter 2025/26 is listed as custom private tours.",
+    "tourTypes": [
+      "kennel-tour"
+    ],
+    "driveYourOwn": false,
+    "duration": "1.5 hours for the summer visit.",
+    "priceMin": 64,
+    "priceMax": 64,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Summer 2027: $64 per adult age 13 and up, $54 per child ages 3\u201312, infants age 2 and under free. Winter custom tours say to contact for pricing.",
+    "minAge": "Infants 2 and under are free; child rate starts at age 3",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Child and infant prices are published for the summer tour.",
+    "bookingUrl": "https://huskyhomestead.com/summer-tours/",
+    "website": "https://huskyhomestead.com/",
+    "sources": [
+      {
+        "url": "https://huskyhomestead.com/summer-tours/",
+        "retrieved": "2026-11-19",
+        "what": "2027 dates, $64/$54 prices, 1.5-hour kennel visit"
+      },
+      {
+        "url": "https://huskyhomestead.com/winter-tours/",
+        "retrieved": "2026-11-19",
+        "what": "Winter custom tours, price on request"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "last-frontier-mushing-coop",
+    "name": "Last Frontier Mushing Co-op",
+    "state": "AK",
+    "town": "Fairbanks",
+    "summary": "Last Frontier Mushing Co-op in Fairbanks lists winter mushing tours, summer kennel-and-cart visits, and fall cart rides. The homepage menu names 30-minute, 1.5-hour, and 2-hour products. Dollar prices were not on the pages read.",
+    "season": "Winter, summer, and fall products are listed, so the operation presents itself as year-round. Exact snow dates were not on the welcome page.",
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": null,
+    "duration": "Menu names a 30-minute mush, a 1.5-hour day mush, a 2-hour aurora mush, and 1.5- and 2-hour cart rides.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://www.themushingcoop.com/",
+    "website": "https://www.themushingcoop.com/",
+    "sources": [
+      {
+        "url": "https://www.themushingcoop.com/",
+        "retrieved": "2026-11-19",
+        "what": "Tour menu for winter, summer, and fall"
+      },
+      {
+        "url": "https://www.themushingcoop.com/welcome",
+        "retrieved": "2026-11-19",
+        "what": "Fairbanks address at 265 Gettinger Road"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "moon-dog-kennel",
+    "name": "Moon Dog Kennel",
+    "state": "AK",
+    "town": "Healy",
+    "summary": "Moon Dog Kennel, at mile 3.5 Stampede Road in Healy, sells one- to four-hour winter day trips and a three-day expedition to a cabin on the Denali Park boundary. The multi-day trip includes instruction to run a team. Heavy winter gear is provided.",
+    "season": "November\u2013March.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own",
+      "overnight"
+    ],
+    "driveYourOwn": true,
+    "duration": "Day trips of 1, 2, 3, or 4 hours. Three-day expedition with one travel day of about 25 miles.",
+    "priceMin": 100,
+    "priceMax": 2500,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Per person: 1 hour $100, 2 hours $200, 3 hours $300, 4 hours $395 (snacks and warm drinks included on the 4-hour). Three-day excursion $2,500. The site says trips and duration can change with snow and weather.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://www.moondogkennel.com/winter-dog-sledding",
+    "website": "https://www.moondogkennel.com/",
+    "sources": [
+      {
+        "url": "https://www.moondogkennel.com/winter-dog-sledding",
+        "retrieved": "2026-11-19",
+        "what": "Per-person prices, Healy location, November\u2013March season, and expedition outline"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "susitna-sled-dogs",
+    "name": "Susitna Sled Dog Adventures",
+    "state": "AK",
+    "town": "Talkeetna",
+    "summary": "Susitna Sled Dog Adventures runs winter sled tours from a family kennel at 17930 Montana Creek Road in Talkeetna. Classic and night tours are guide-driven, with a chance to switch between sitting and standing. A half-day product can be booked as guided or drive-your-own.",
+    "season": "The winter tour page does not print calendar start and end dates.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "Classic and night visits about 2 hours total, with about 1 hour on the trail (classic about 6.5 miles). Half day about 4 hours, with 2.5\u20133 hours of mushing.",
+    "priceMin": 199,
+    "priceMax": 650,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Classic: $199 adult, $169 child. Night: $239 adult, $199 child. Half day, guided or drive-your-own: $450\u2013$650 adult. A longer cabin itinerary is described on the same page without a separate labeled rate. An optional snowmachine add-on is $400 per person.",
+    "minAge": "2 years",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Children must be at least 2 because of insurance rules. One person in the group must be able to stand and balance on the sled.",
+    "bookingUrl": "https://susitnasleddogs.com/winter-tour/",
+    "website": "https://susitnasleddogs.com/",
+    "sources": [
+      {
+        "url": "https://susitnasleddogs.com/winter-tour/",
+        "retrieved": "2026-11-19",
+        "what": "Classic, night, and half-day prices, ages, and Talkeetna location"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "good-times-adventures",
+    "name": "Good Times Adventures",
+    "state": "CO",
+    "town": "Breckenridge",
+    "summary": "Good Times Adventures runs a hands-on dogsled tour on Tiger Road in Breckenridge and is booking the 2026\u20132027 winter season. Guests rotate among mushing, riding the dogsled, and a passenger sleigh on a six-mile loop in the Swan River Valley.",
+    "season": "2026\u20132027 winter season. The dogsledding page does not print the first and last calendar dates.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": "90 minutes, covering six miles.",
+    "priceMin": 204,
+    "priceMax": null,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Tours start at $204 per person, plus a $7 per person permit fee. No top rate is listed on the dogsledding page.",
+    "minAge": "5 years",
+    "weightLimit": "275 pounds per person",
+    "kidFriendly": true,
+    "kidNote": "Ages 5 and up. Children 4 and under are not allowed. Children under 15 must have a parent or guardian on the tour.",
+    "bookingUrl": "https://goodtimesadventures.com/dogsledding.html",
+    "website": "https://goodtimesadventures.com/",
+    "sources": [
+      {
+        "url": "https://goodtimesadventures.com/dogsledding.html",
+        "retrieved": "2026-11-19",
+        "what": "2026\u20132027 booking, $204 rate, age 5, 275 lb limit, 90-minute format"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "grizzle-t-steamboat",
+    "name": "Grizzle-T Dog & Sled Works",
+    "state": "CO",
+    "town": "Steamboat Springs",
+    "summary": "Grizzle-T, also called Steamboat Dog Sledding, runs a half-day trip on a private trail of about 12.5 miles where two guests share a sled and switch so each person over 80 pounds can drive. Early and late season may use a shorter national-forest trail north of Steamboat.",
+    "season": "About December 1 through the first week of April, snow permitting, seven days a week.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": "About 2 hours on the sled.",
+    "priceMin": 200,
+    "priceMax": 340,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Per person at full sled occupancy: $315 for a guest 80 lb or more, $200 for a guest under 80 lb. Peak December 20\u2013January 4: $340 and $215. A 2-year-old lap child is $50 and must be held by an adult. A single-occupancy sled is $630, or $680 in peak season. Shuttle is $25 per guest.",
+    "minAge": "2 years for a lap child",
+    "weightLimit": "300 pounds per person; 450 pounds maximum per sled",
+    "kidFriendly": true,
+    "kidNote": "A 2-year-old can ride as a lap child with an adult driver. Guests under 80 pounds have a lower fare. The site says it will not put more than 3 people on a sled.",
+    "bookingUrl": "https://steamboatdogsledding.com/",
+    "website": "https://steamboatdogsledding.com/",
+    "sources": [
+      {
+        "url": "https://steamboatdogsledding.com/",
+        "retrieved": "2026-11-19",
+        "what": "Per-person prices, season, 300 lb and 450 lb limits, and drive-your-own format"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "krabloonik",
+    "name": "Krabloonik",
+    "state": "CO",
+    "town": "Snowmass Village",
+    "summary": "Krabloonik runs guided dogsled rides in the Snowmass backcountry near Aspen. A musher drives each sled, which the site says can carry two adults and a small child. Morning, afternoon, and twilight departures are listed.",
+    "season": "Winter. Reservations were marked open. Start and end months were not on the homepage.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "45\u201360 minutes, depending on snow.",
+    "priceMin": 295,
+    "priceMax": null,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Morning, afternoon, and twilight rides are listed from $295. Departure times shown: 9:00 a.m., 11:00 a.m., 1:15 p.m., and a 4:00 p.m. twilight ride.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The sled is described as carrying two adults and a small child. A numeric minimum age is not stated.",
+    "bookingUrl": "https://krabloonik.com/",
+    "website": "https://krabloonik.com/",
+    "sources": [
+      {
+        "url": "https://krabloonik.com/",
+        "retrieved": "2026-11-19",
+        "what": "From $295 rides, 45\u201360 minutes, Snowmass, guided sleds"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "alpine-adventures-dogsledding",
+    "name": "Alpine Adventures Dogsledding",
+    "state": "CO",
+    "town": "Leadville",
+    "summary": "Alpine Adventures Dogsledding in Leadville sells guest-driven dogsled tours and, at the time of this check, side-by-side trips with eight dogs on a six-mile trail starting Tuesday, November 24, until a snow trail can be built. Two snow-tour formats are described for larger parties and smaller families.",
+    "season": "Side-by-side tours from November 24 until snow allows a trail. The reservations page calls Christmas, New Year\u2019s, February, and March the peak booking period.",
+    "tourTypes": [
+      "drive-your-own",
+      "ride-along"
+    ],
+    "driveYourOwn": true,
+    "duration": "Side-by-side note: eight dogs on a 6-mile trail. A single clock time for the snow tour was not on the homepage.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": "The homepage says the operation can suit a small family or a larger party. A minimum age was not on the pages read.",
+    "bookingUrl": "https://www.alpineadventuresdogsledding.com/reservations",
+    "website": "https://www.alpineadventuresdogsledding.com/",
+    "sources": [
+      {
+        "url": "https://www.alpineadventuresdogsledding.com/",
+        "retrieved": "2026-11-19",
+        "what": "November 24 side-by-side tours, Leadville, guests drive"
+      },
+      {
+        "url": "https://www.alpineadventuresdogsledding.com/reservations",
+        "retrieved": "2026-11-19",
+        "what": "Peak-season months and cancellation rules; no dollar rates on the page text"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "durango-dog-ranch",
+    "name": "Durango Dog Ranch",
+    "state": "CO",
+    "town": "Hesperus",
+    "summary": "Durango Dog Ranch, run by Gregg and Gretchen Dubit, sells two-hour winter dogsled tours from Hesperus and, when snow is better higher up, from Molas Pass. Every sled has a guide, and the site says every guest drives.",
+    "season": "Booking starts around Thanksgiving, snow permitting. Tours run in winter weather, including on high-elevation trails.",
+    "tourTypes": [
+      "drive-your-own",
+      "ride-along"
+    ],
+    "driveYourOwn": true,
+    "duration": "About two hours, including a lesson, harnessing, trail time, and a hot drink. Trail time is shorter than the full two hours.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Prices are per sled, not per person. The winter page says sled prices range from $395 to $495 by early versus high season and are shown on the booking calendar. A booking page checked the same day listed morning and midday tours at $495. A sled fits two people, not over 375 pounds, plus an optional lap child at $75.",
+    "minAge": null,
+    "weightLimit": "375 pounds combined for two people, excluding the guide",
+    "kidFriendly": true,
+    "kidNote": "A lap child is allowed at $75 if small enough to sit in a car seat and unable to tie their own shoes. Only one lap child per sled.",
+    "bookingUrl": "https://www.durangodogranch.com/book-online",
+    "website": "https://www.durangodogranch.com/",
+    "sources": [
+      {
+        "url": "https://www.durangodogranch.com/winter-tours-sled-dogs-durango-co",
+        "retrieved": "2026-11-19",
+        "what": "Per-sled range $395\u2013$495, 375 lb limit, Hesperus base, everyone drives"
+      },
+      {
+        "url": "https://www.durangodogranch.com/book-online",
+        "retrieved": "2026-11-19",
+        "what": "Morning and midday tours listed at $495"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "mountain-paws",
+    "name": "Mountain Paws Dog Sledding",
+    "state": "CO",
+    "town": "Pagosa Springs",
+    "summary": "Mountain Paws Dog Sledding runs private drive-your-own tours on San Juan National Forest trails near Pagosa Springs. The standard tour is about 6\u20137 miles. An extended scenic tour is a longer, adults-preferred day with no passengers.",
+    "season": "Winter tours usually from the beginning of December through the end of March. Cart tours are offered April through November. The extended tour lists January 9\u2013March 3 and is not run at Christmas or spring break.",
+    "tourTypes": [
+      "drive-your-own",
+      "ride-along"
+    ],
+    "driveYourOwn": true,
+    "duration": "Standard visit about 2.5 hours, with 6\u20137 miles of driving. Extended tour about 6 hours and about 22 miles.",
+    "priceMin": 195,
+    "priceMax": 495,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Standard tour: $195 per person over 80 lb, $120 per child under 80 lb, $45 per toddler under 2. A solo sled is an extra $120. Extended scenic tour: $495 per person. Two adults per sled on the standard tour; two small children count as one adult. Weight limit 400 pounds per sled.",
+    "minAge": "Toddlers under 2 have a published fare on the standard tour. The extended tour says it is not appropriate for children.",
+    "weightLimit": "400 pounds per sled on the standard tour",
+    "kidFriendly": true,
+    "kidNote": "Child and toddler fares are published on the standard tour. The extended tour is described as adults preferred and not appropriate for children.",
+    "bookingUrl": "https://mountainpawsdogsledding.com/tours/winter-tours/",
+    "website": "https://mountainpawsdogsledding.com/",
+    "sources": [
+      {
+        "url": "https://mountainpawsdogsledding.com/tours/winter-tours/",
+        "retrieved": "2026-11-19",
+        "what": "Pagosa prices, season, ages, and 400 lb sled limit"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "snow-buddy-sled-dogs",
+    "name": "Snow Buddy Sled Dogs",
+    "state": "CO",
+    "town": "Oak Creek",
+    "summary": "Snow Buddy Sled Dogs runs half-day learn-to-mush trips in the Little Flat Tops south of Steamboat Springs, with a mailing address in Oak Creek. Guests can drive in pairs or book a guided sled. The trail stops at a wall-tent camp.",
+    "season": "Month range is not stated on the half-day page.",
+    "tourTypes": [
+      "drive-your-own",
+      "ride-along"
+    ],
+    "driveYourOwn": true,
+    "duration": "Half-day blocks 8:30 a.m.\u201312:15 p.m. and 12:30 p.m.\u20134:15 p.m.",
+    "priceMin": 340,
+    "priceMax": 340,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Half day: $340 per adult (18+ or 95 lb and up), $220 per child under 95 lb, $85 per infant who cannot walk. A private half day is $3,500. A 15% gratuity is applied at checkout. Shuttle fares are separate. Two-person sleds are limited to 450 lb; three-person sleds to 550 lb and no more than three adults.",
+    "minAge": "Infants who cannot walk have a fare; child fare is under 95 lb",
+    "weightLimit": "450 lb for a 2-person sled; 550 lb for a 3-person sled",
+    "kidFriendly": true,
+    "kidNote": "Child and infant prices are published. A guided sled can carry very small children with an adult.",
+    "bookingUrl": "https://snowbuddysleddogadventures.com/half-day-learn-to-mush/",
+    "website": "https://snowbuddysleddogadventures.com/",
+    "sources": [
+      {
+        "url": "https://snowbuddysleddogadventures.com/half-day-learn-to-mush/",
+        "retrieved": "2026-11-19",
+        "what": "Half-day prices, Oak Creek address, weight limits, and drive-or-ride format"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "san-juan-sled-dogs",
+    "name": "San Juan Sled Dogs",
+    "state": "CO",
+    "town": "Pagosa Springs",
+    "summary": "San Juan Sled Dogs offers a two-hour educational dogsled visit from Pagosa Springs with a team of Alaskan malamutes and huskies. The visit includes a mushing introduction, round-trip transportation, photos, and time with the dogs. Early-season dryland tours are also mentioned.",
+    "season": "Winter sled experience, plus early-season dryland tours. Calendar months are not stated on the homepage.",
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": null,
+    "duration": "2 hours.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The homepage says the trip is for the whole family. A minimum age is not stated.",
+    "bookingUrl": "https://www.sanjuansleddogs.com/",
+    "website": "https://www.sanjuansleddogs.com/",
+    "sources": [
+      {
+        "url": "https://www.sanjuansleddogs.com/",
+        "retrieved": "2026-11-19",
+        "what": "Two-hour Pagosa tour contents; no dollar price on the page"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "natures-kennel",
+    "name": "Nature's Kennel",
+    "state": "MI",
+    "town": "McMillan",
+    "summary": "Nature's Kennel in McMillan runs half-day, 10-mile dogsled trips in Michigan's eastern Upper Peninsula and is booking the 2026\u201327 winter. Guests can drive their own team, ride with the guide, or switch halfway when two people book together.",
+    "season": "2026\u201327 season from early December, snowfall dependent, through early April. Trips at 9 a.m. and 1 p.m., seven days a week.",
+    "tourTypes": [
+      "drive-your-own",
+      "ride-along"
+    ],
+    "driveYourOwn": true,
+    "duration": "Half day, about 9 a.m.\u2013noon or 1\u20134 p.m., covering 10 miles.",
+    "priceMin": 300,
+    "priceMax": 320,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "2026\u201327 weekday drive-your-own $300 per person; weekend and holiday $320. One driver and one rider: $550 weekday or $590 weekend for two people. Two riders: $500 weekday or $540 weekend for two people, each under 210 lb. Children ages 4\u201310 are $95; ages 3 and under are free. Holiday rates also apply December 20, 2026\u2013January 3, 2027.",
+    "minAge": "Children's fares from age 4; ages 3 and under free. Age 10 to drive.",
+    "weightLimit": "Two riders must each weigh under 210 pounds",
+    "kidFriendly": true,
+    "kidNote": "The site says half-day trips suit all ages. Children must be 10 to drive. Ages 4\u201310 are $95 and ages 3 and under are free.",
+    "bookingUrl": "https://www.natureskennel.com/availability",
+    "website": "https://www.natureskennel.com/",
+    "sources": [
+      {
+        "url": "https://www.natureskennel.com/",
+        "retrieved": "2026-11-19",
+        "what": "2026\u201327 season, McMillan, drive or ride, age 10 to drive"
+      },
+      {
+        "url": "https://www.natureskennel.com/availability",
+        "retrieved": "2026-11-19",
+        "what": "2026\u201327 prices and the 210 lb two-rider rule"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "husky-haven-kennels",
+    "name": "Husky Haven Kennels",
+    "state": "MI",
+    "town": "Shingleton",
+    "summary": "Husky Haven Kennels in Shingleton runs private winter sled tours on a double-driver sled, so guests drive with an instructor, and shorter summer kennel visits. Winter trips are by appointment and are not shared with another party.",
+    "season": "Winter sled tours and summer kennel or cool-weather rides. Exact month dates are not printed.",
+    "tourTypes": [
+      "drive-your-own",
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "Winter visit about 3\u20134 hours, with an 8\u201310 mile run. Summer kennel tour length is not stated as a clock time.",
+    "priceMin": 25,
+    "priceMax": 200,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Winter tours $200 per person. Summer kennel tour $25 per person. A summer ride when the temperature is below 50\u00b0F is $75 per person and includes the kennel tour.",
+    "minAge": "No age limit stated for winter tours",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The tours page says there is no age limit on winter tours and that young and old can take part.",
+    "bookingUrl": "https://www.huskyhavenkennels.com/tours",
+    "website": "https://www.huskyhavenkennels.com/",
+    "sources": [
+      {
+        "url": "https://www.huskyhavenkennels.com/",
+        "retrieved": "2026-11-19",
+        "what": "Shingleton address and double-driver sled"
+      },
+      {
+        "url": "https://www.huskyhavenkennels.com/tours",
+        "retrieved": "2026-11-19",
+        "what": "$200 winter, $75 summer ride, $25 kennel tour, no age limit"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "otter-river-sled-dog",
+    "name": "Otter River Sled Dog",
+    "state": "MI",
+    "town": "Chassell",
+    "summary": "Otter River Sled Dog Training Center in Chassell offers sled trips where guests ride with a musher or drive their own team, plus summer kennel visits and dryland options. Booking is through the operator's calendar.",
+    "season": "Winter sled trips and summer kennel or dryland visits. Month dates are not printed on the pages read.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "Basic kennel tour listed as 2 hours. Per-hour group tours listed as 1 hour.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": "2026-11-19",
+    "priceNote": "The booking page lists a basic kennel tour at $100 for 2 hours, per-hour group tours from $250, and dryland adventures from $50. It does not say whether each figure is per person or per booking. Group tours are described as two teams for up to 10 people, or three to four teams above that. Custom sled trips are call-to-book.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://www.otterriversleddogs.com/book-online",
+    "website": "https://www.otterriversleddogs.com/",
+    "sources": [
+      {
+        "url": "https://www.otterriversleddogs.com/",
+        "retrieved": "2026-11-19",
+        "what": "Ride or drive, summer kennel tour"
+      },
+      {
+        "url": "https://www.otterriversleddogs.com/book-online",
+        "retrieved": "2026-11-19",
+        "what": "Listed service prices"
+      },
+      {
+        "url": "https://www.otterriversleddogs.com/service-page/per-hour-group-tours",
+        "retrieved": "2026-11-19",
+        "what": "Group tour description and Chassell address"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "mi-dog",
+    "name": "MI DOG",
+    "state": "MI",
+    "town": "Newberry",
+    "summary": "MI DOG, run by musher Laura Stielstra north of Newberry, sells summer kennel visits with the race team and puppies and says its winter dogsled schedule is set. Summer admission prices are published. A winter ride price was not on the homepage.",
+    "season": "Summer center was marked closed after the summer season, with winter rides open to reserve. Summer time slots are 1.5 hours.",
+    "tourTypes": [
+      "kennel-tour",
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "Summer slots are an hour and a half.",
+    "priceMin": 15,
+    "priceMax": 15,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Summer admission: $15 from age 13, $10 ages 3\u201312, free at age 2 and under, $13 each for a group of 8 or more. The winter dogsled ride price is not on the homepage.",
+    "minAge": "Age 2 and under free; child rate from age 3",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Summer child and infant prices are published.",
+    "bookingUrl": "https://www.midogtours.com/",
+    "website": "https://www.midogtours.com/",
+    "sources": [
+      {
+        "url": "https://www.midogtours.com/",
+        "retrieved": "2026-11-19",
+        "what": "Newberry location, summer prices, and winter rides open to reserve"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "white-wilderness",
+    "name": "White Wilderness Sled Dog Adventures",
+    "state": "MN",
+    "town": "Ely",
+    "summary": "White Wilderness runs guided dogsled day trips from its kennel near Ely, including a shared tandem day and a solo premier day on which the guest drives. Multi-day lodge and yurt trips are also on the site.",
+    "season": "Tandem day trips run Thursday\u2013Monday from mid-December until the snow melts in late March.",
+    "tourTypes": [
+      "drive-your-own",
+      "ride-along",
+      "overnight"
+    ],
+    "driveYourOwn": true,
+    "duration": "Tandem day about 9 a.m.\u20133 p.m., covering 20\u201330 miles. Premier day about six hours, covering 20\u201340 miles.",
+    "priceMin": 360,
+    "priceMax": 570,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Tandem day: $360 per person weekdays, $425 weekends and holidays, minimum age 6, 10% off groups of 6 or more and 15% off ages 12 and under. Premier solo day: $460 weekdays, $570 weekends and holidays, minimum age 14, 10% off groups of 4 or more. Other trip prices were not copied from pages that were not opened.",
+    "minAge": "6 years on the tandem day; 14 years on the premier day",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The tandem page calls the trip good for families and all ages and sets a minimum age of 6.",
+    "bookingUrl": "https://www.whitewilderness.com/tandem-day-trips",
+    "website": "https://www.whitewilderness.com/",
+    "sources": [
+      {
+        "url": "https://www.whitewilderness.com/tandem-day-trips",
+        "retrieved": "2026-11-19",
+        "what": "Tandem prices, season, and age 6"
+      },
+      {
+        "url": "https://www.whitewilderness.com/premier-day-trip",
+        "retrieved": "2026-11-19",
+        "what": "Premier solo prices and age 14"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "wintergreen-dogsled-lodge",
+    "name": "Wintergreen Dogsled Lodge",
+    "state": "MN",
+    "town": "Ely",
+    "summary": "Wintergreen Dogsled Lodge in Ely sells multi-night mush-your-own vacations and separate day trips on which two guests drive an extra-wide sled together. The lodge listed specific December 2026 and January 2027 openings.",
+    "season": "Day trips generally December to March, with one section saying December 15\u2013March 23 on Sunday\u2013Wednesday and another saying most Thursday\u2013Saturday teams are on overnight trips so day trips are often Sundays. Lodge trips include Wednesday\u2013Sunday packages December\u2013March.",
+    "tourTypes": [
+      "drive-your-own",
+      "overnight",
+      "ride-along"
+    ],
+    "driveYourOwn": true,
+    "duration": "Half day 9 a.m.\u2013noon or 1\u20134 p.m. Full day 9 a.m.\u20134 p.m. Lodge packages of several nights are also sold.",
+    "priceMin": 250,
+    "priceMax": 400,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Day-trip rates per person with two guests per sled: half day adults $250, youth 12\u201317 $200, kids 5\u201311 $150. Full day, lunch included: adults $400, youth $325, kids $250. A one-person sled is 50% more. Groups of 6 or more get 10% off. People over 250 pounds may find the sleds hard to balance on. Overnight package prices were not on the day-trip page.",
+    "minAge": "5 years on day trips",
+    "weightLimit": "Over 250 pounds may have trouble balancing; no hard cutoff stated",
+    "kidFriendly": true,
+    "kidNote": "Day trips publish kids' fares for ages 5\u201311. The lodge homepage says it has hosted people of all ages and ability.",
+    "bookingUrl": "https://www.wintergreendogsledding.com/day-trips-and-private-groups",
+    "website": "https://www.dogsledding.com/",
+    "sources": [
+      {
+        "url": "https://www.dogsledding.com/",
+        "retrieved": "2026-11-19",
+        "what": "2026\u201327 lodge dates and Ely address"
+      },
+      {
+        "url": "https://www.wintergreendogsledding.com/day-trips-and-private-groups",
+        "retrieved": "2026-11-19",
+        "what": "Day-trip prices, ages, and driving format"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "endurance-kennels",
+    "name": "Endurance Kennels",
+    "state": "MN",
+    "town": "Duluth",
+    "summary": "Endurance Kennels runs family sled rides from 6838 Pequaywan Lake Road, about 20 miles north of downtown Duluth. Most rides are musher-driven. A tandem option puts adults on the runners in turns, and a fall training ride uses a wheeled rig.",
+    "season": "Sled rides through the winter, with a later afternoon slot after February 1. Gift certificates on the page expire March 1 of the sledding season. Fall training rides are scheduled in cooler hours.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "Quick trip about 1 hour on site and about 20 minutes on the sled. Lead-dog ride about 90 minutes with about 30 minutes on the sled. Tandem about 1 hour. Fall training ride about 25 minutes and 4.5 miles.",
+    "priceMin": 75,
+    "priceMax": 250,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Quick trip: adults $175, teens 13\u201317 $140, age 12 $125, ages 6\u201311 $90, age 5 and under $50. Lead-dog ride: $210 for adults and children over 13, $125 for ages 12 and under. Tandem, adults only: $250, two-person minimum. Fall training ride: adults $75, children 12 and under $40. Weight limit 250 lb per customer. The FAQ says a musher drives the standard sled; guests may be invited onto the back, and the tandem product is the drive option.",
+    "minAge": "Fares published for age 5 and under; tandem is adults only",
+    "weightLimit": "250 pounds per customer",
+    "kidFriendly": true,
+    "kidNote": "The page calls the rides a family activity and publishes child fares. Tandem is adults only.",
+    "bookingUrl": "https://endurancekennels.com/dog-sled-rides-tours/",
+    "website": "https://endurancekennels.com/",
+    "sources": [
+      {
+        "url": "https://endurancekennels.com/dog-sled-rides-tours/",
+        "retrieved": "2026-11-19",
+        "what": "Duluth prices, 250 lb limit, and driving rules"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "points-unknown",
+    "name": "Points Unknown",
+    "state": "MN",
+    "town": "Hovland",
+    "summary": "Points Unknown sells a 1.5-hour Taste of the North Woods sled ride from an off-grid homestead on Irish Creek Road in Hovland, northeast of Grand Marais. The dogs are harnessed before guests arrive, and the musher drives.",
+    "season": "Daily time slots at 11 a.m. and 2 p.m. Season months are not stated on this page.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "About 1.5 hours, at 11 a.m. or 2 p.m.",
+    "priceMin": 229,
+    "priceMax": 229,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "$229 per adult. $175 per child under 12, who must be with a participating adult. Weight limit 275 pounds per sled, no more than two people per sled.",
+    "minAge": "Under 5 may visit the dogs but may not ride",
+    "weightLimit": "275 pounds per sled",
+    "kidFriendly": true,
+    "kidNote": "A child fare is published for under 12. Children under 5 cannot ride in the sled.",
+    "bookingUrl": "https://www.points-unknown.com/taste-of-the-north-woods/",
+    "website": "https://www.points-unknown.com/",
+    "sources": [
+      {
+        "url": "https://www.points-unknown.com/taste-of-the-north-woods/",
+        "retrieved": "2026-11-19",
+        "what": "Hovland prices, age rule, and 275 lb sled limit"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "muddy-paw-sled-dog-kennel",
+    "name": "Muddy Paw Sled Dog Kennel",
+    "state": "NH",
+    "town": "Jefferson",
+    "summary": "Muddy Paw Sled Dog Kennel in Jefferson books winter sled tours and snowless cart rides in the White Mountains. The 1.5-hour winter tour is the main sled product. A musher clinic and a 3-hour tour are listed for ages 12 and up.",
+    "season": "Winter sleds typically from the end of December until mid-March; the 1.5-hour page said no availability until December 2026. Carts are used when snow is not enough for sleds. Kennel visits run in other seasons.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "1.5-hour tour is about 1.5 hours total, with about 5 miles or 50 minutes of riding. Mini mush, a 3-hour 13-mile tour, and a musher clinic are also listed.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": "2026-11-19",
+    "priceNote": "The 1.5-hour winter tour is priced per sled. Weekdays: $500 standard sled (2 guests or 350 lb), $525 with a small third child, $550 extended sled (2 guests or 425 lb). Weekends: $550, $575, and $600. Holidays and vacation weeks: $600, $625, and $650. Driving is at the musher's discretion. Cart and clinic prices were not on this page.",
+    "minAge": "2 years on most tours; under 2 cannot enter the kennel",
+    "weightLimit": "350 lb on a standard sled; 425 lb on an extended sled",
+    "kidFriendly": true,
+    "kidNote": "The site calls tours family-friendly for ages 2 and up. A guardian is required under 18. The 3-hour tour and musher clinic are ages 12+.",
+    "bookingUrl": "https://dogslednh.com/90minutetour/",
+    "website": "https://dogslednh.com/",
+    "sources": [
+      {
+        "url": "https://dogslednh.com/",
+        "retrieved": "2026-11-19",
+        "what": "Jefferson location, ages 2+, tour menu"
+      },
+      {
+        "url": "https://dogslednh.com/90minutetour/",
+        "retrieved": "2026-11-19",
+        "what": "Per-sled prices and December 2026 availability"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "ultimate-dog-sledding-experience",
+    "name": "Ultimate Dog Sledding Experience",
+    "state": "ME",
+    "town": "Canton",
+    "summary": "Ultimate Dog Sledding Experience runs guided sled tours on 250 acres of private woods in Canton, Maine, with a yurt stop afterward. Shorter tours are rides. The full-day intro teaches guests to harness and lead a team.",
+    "season": "Winter sled tours. Calendar start and end dates are not on the homepage.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "1.5-hour and 2.5-hour tours; a full-day intro; a 3-hour Grafton Notch mountain expedition.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Rates on the homepage are per sled, not per person. 1.5-hour from $400 (ages 1 and older, up to 2\u20133 guests). 2.5-hour from $600 (ages 2 and older). Full-day intro $1,400 (ages 5 and older, up to 2 guests). Twilight romance $950 (up to 2 guests). Grafton Notch mountain expedition $1,500 (ages 12 and older, 3 hours, up to 2 guests).",
+    "minAge": "1 year on the 1.5-hour tour",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The 1.5-hour tour is tagged for ages 1 and older. Other tours list minimum ages of 2, 5, or 12.",
+    "bookingUrl": "https://ultimatedogsleddingexperience.com/",
+    "website": "https://ultimatedogsleddingexperience.com/",
+    "sources": [
+      {
+        "url": "https://ultimatedogsleddingexperience.com/",
+        "retrieved": "2026-11-19",
+        "what": "Canton tours and per-sled prices"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "dog-sled-adventures-montana",
+    "name": "Dog Sled Adventures Montana",
+    "state": "MT",
+    "town": "Olney",
+    "summary": "Dog Sled Adventures Montana, run by Jeff Ulsamer since 1979, gives guided rides through the Stillwater State Forest north of Whitefish. Guests sit in the sled. The kennel is in Olney.",
+    "season": "Beginning of December through the end of March, snow permitting. Departures at 10:00, 1:00, and 3:30, seven days a week.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "About an hour and a half on a 12-mile trail.",
+    "priceMin": 200,
+    "priceMax": 200,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Adults $200. Children 11 and under $100. Cancellations inside 48 hours are charged the full fare. A sled fits 2 adults; a larger sled holds 3 small adults or a family of 4.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The site says customers range from babies to people in their eighties and that the operation caters to all ages and disabilities. A child fare is published for age 11 and under.",
+    "bookingUrl": "https://dogsledadventuresmontana.com/index.php/dog-sledding-tour-information/",
+    "website": "https://dogsledadventuresmontana.com/",
+    "sources": [
+      {
+        "url": "https://dogsledadventuresmontana.com/",
+        "retrieved": "2026-11-19",
+        "what": "Olney location and family-friendly description"
+      },
+      {
+        "url": "https://dogsledadventuresmontana.com/index.php/dog-sledding-tour-information/",
+        "retrieved": "2026-11-19",
+        "what": "$200/$100 prices, December\u2013March season, and 12-mile ride"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "base-camp-bigfork",
+    "name": "Base Camp Bigfork",
+    "state": "MT",
+    "town": "Bigfork",
+    "summary": "Base Camp Bigfork sells private mush-your-own trips with Inuit sled dogs, a kennel tour, and a small-group day. The sled tours meet by reservation at 31031 MT Hwy 209. The operator does not mix parties.",
+    "season": "Winter dogsled trips. The group day is offered after New Year when valley snow is more consistent. Exact opening and closing dates are not printed.",
+    "tourTypes": [
+      "drive-your-own",
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "Mush-your-own 2.5\u20133 hours. Kennel tour about 30 minutes. Day with the Dogs about 2 hours. Full day length is described as longer trail time, not a single clock time.",
+    "priceMin": 25,
+    "priceMax": 395,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Mush your own, 2 people only: $295 per person, ages 12+. Full day, 2 people only: $395 per person, ages 12+. Kennel tour: $25 adult, $15 child ages 8\u201312, free under 8. Day with the Dogs for 3\u20136 people: $650 per group, ages 10+. Combined couple weight should not exceed 450 lb unless the pair can compensate athletically. Participants over 225 lb are asked to consider whether the trip fits.",
+    "minAge": "None on the kennel tour; 12 on mush-your-own and full day; 10 on Day with the Dogs",
+    "weightLimit": "Couples should stay at or under 450 lb combined; the page asks whether anyone weighs over 225 lb",
+    "kidFriendly": true,
+    "kidNote": "Kennel tours have no age limit and a child price. Sled-driving trips set minimum ages of 10 or 12.",
+    "bookingUrl": "https://basecampbigfork.com/bigfork-montana-dog-sledding/",
+    "website": "https://basecampbigfork.com/",
+    "sources": [
+      {
+        "url": "https://basecampbigfork.com/bigfork-montana-dog-sledding/",
+        "retrieved": "2026-11-19",
+        "what": "Bigfork prices, ages, and private mush-your-own format"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "yellowstone-dog-sled-adventures",
+    "name": "Yellowstone Dog Sled Adventures",
+    "state": "MT",
+    "town": "Big Sky",
+    "summary": "Yellowstone Dog Sled Adventures, based in Big Sky, sells a learn-to-mush trip on which guests drive their own team after a short lesson. The homepage advertises a wide from-to price for that adventure.",
+    "season": "Winter wilderness trips near Big Sky. Month dates are not on the homepage.",
+    "tourTypes": [
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": "About 2 hours for the learn-to-mush adventure.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": "2026-11-19",
+    "priceNote": "The homepage lists the learn-to-mush adventure from $150 to $3,500. It does not say whether those figures are per person, per sled, or for different trip lengths.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The page says the adventure is for all ages. A numeric minimum age is not stated.",
+    "bookingUrl": "https://yellowstonedogsledadventures.com/",
+    "website": "https://yellowstonedogsledadventures.com/",
+    "sources": [
+      {
+        "url": "https://yellowstonedogsledadventures.com/",
+        "retrieved": "2026-11-19",
+        "what": "Big Sky learn-to-mush price range, about 2 hours, all ages"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "continental-divide-dogsled-adventures",
+    "name": "Continental Divide Dog Sled Adventures",
+    "state": "WY",
+    "town": "Togwotee",
+    "summary": "Continental Divide Dog Sled Adventures runs guided sled tours from Togwotee Mountain Lodge, with optional transport from Jackson Hole. Half-day trips are about 10 miles. A shorter hour ride is also listed. Guests ride; a guide may offer driving instruction if asked.",
+    "season": "Early December through March 26. The tours page says to join a waitlist for dates outside that window.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": null,
+    "duration": "Half-day ride described as about 2 hours and 10 miles. Hour rides are 45\u201360 minutes on the trail and about 6 miles.",
+    "priceMin": 250,
+    "priceMax": 310,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Half-day with lunch and transportation starting at $310 per guest. Self-drive to Togwotee, no lunch, starting at $250 per guest. \u201cSelf-drive\u201d on this page means the guest drives a car to the lodge, not the sled. An extra $45 is charged when a guest has to ride alone. Hour-ride prices say to check the calendar. One section lists a 350 lb sled limit and another lists 360 lb. Half-day guests must be 5 or older; hour rides must be 3 or older.",
+    "minAge": "5 years on the half-day; 3 years on the hour ride",
+    "weightLimit": "350 lb per sled in one section and 360 lb per sled in another",
+    "kidFriendly": true,
+    "kidNote": "Minimum ages of 5 and 3 are published for the two ride lengths.",
+    "bookingUrl": "https://dogsledadventures.com/tours-schedules/",
+    "website": "https://dogsledadventures.com/",
+    "sources": [
+      {
+        "url": "https://dogsledadventures.com/tours-schedules/",
+        "retrieved": "2026-11-19",
+        "what": "Togwotee half-day prices, season through March 26, ages, and sled weight"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "eden-dogsledding",
+    "name": "Eden Dogsledding",
+    "state": "VT",
+    "town": "Eden Mills",
+    "summary": "Eden Dogsledding in Eden Mills sells hands-on sled tours priced per sled, not per person. Guests harness and hitch, then take turns riding. The page lists December 2026 availability for Alpha, Beta, and Omega tours.",
+    "season": "December 1\u2013December 23, 2026, for Alpha, Beta, and Omega with limited availability. December 24\u2013January 2 is listed as Beta only.",
+    "tourTypes": [
+      "drive-your-own",
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "Beta about 2 hours with a 45-minute ride. Omega about 1.5\u20132 hours with a 30-minute ride. Alpha about 2.5\u20133 hours with about 1 hour of ride time.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Prices are per sled with a guide, not per person. Beta, the page's most popular tour, is $1,750 plus tax for 3\u20136 people sharing ride time. Holiday Beta December 24\u2013January 2 is also listed at $1,750 plus tax. Omega is $1,500 plus tax for 2\u20134 people, and $1,350 for 1\u20132 people midweek. Alpha is $2,500 all inclusive. Combined passenger weight is capped at 350 lb. A school rate of $100 per child, minimum 10, midweek, is also listed.",
+    "minAge": null,
+    "weightLimit": "350 lb combined passenger weight",
+    "kidFriendly": true,
+    "kidNote": "Tours are described for families, including 2 adults with 2\u20134 small children splitting ride time. A school and scout rate is published.",
+    "bookingUrl": "https://www.edendogsledding.com/index.php?id=11",
+    "website": "https://www.edendogsledding.com/",
+    "sources": [
+      {
+        "url": "https://www.edendogsledding.com/index.php?id=11",
+        "retrieved": "2026-11-19",
+        "what": "December 2026 per-sled prices, Eden Mills, and 350 lb limit"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "umiak-outdoor-outfitters",
+    "name": "Umiak Outdoor Outfitters",
+    "state": "VT",
+    "town": "Stowe",
+    "summary": "Umiak Outdoor Outfitters in Stowe lists a one-hour sled-dog meet-and-greet and a 30-minute evening sled ride at Stoweflake Mountain Resort. The meet-and-greet is priced per person. The evening ride is priced per sled.",
+    "season": "The tours page does not print season months.",
+    "tourTypes": [
+      "kennel-tour",
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "Meet-and-greet 1 hour. Evening ride 30 minutes.",
+    "priceMin": 29,
+    "priceMax": 39,
+    "priceBasis": "mixed",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Meet-and-greet $29\u2013$39 per person. Evening dog sled rides $198\u2013$338 per sled. The band uses the per-person meet-and-greet.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The meet-and-greet is described as fun and educational for families. A numeric age limit is not stated.",
+    "bookingUrl": "https://www.umiak.com/dog-sled-tours",
+    "website": "https://www.umiak.com/dog-sled-tours",
+    "sources": [
+      {
+        "url": "https://www.umiak.com/dog-sled-tours",
+        "retrieved": "2026-11-19",
+        "what": "Stowe meet-and-greet and evening sled prices"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "wasatch-adventure-guides",
+    "name": "Wasatch Adventure Guides",
+    "state": "UT",
+    "town": "Park City",
+    "summary": "Wasatch Adventure Guides sells a one-hour winter dog sled trip on a private ranch near Park City, with a guide leading the team. Driving to Stillman Ranch is recommended. Prices are per sled.",
+    "season": "Winter. Month dates are not stated.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "1 hour.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Single sled $424. Split ride $524. Both are per sled. A single sled holds up to 2 people and 1 child under 8. A split ride holds up to 4 adults and 2 children under 8. Maximum weight is 350 lb per sled. Optional transport, when available, is $35 per person. Participants must be 3 or older.",
+    "minAge": "3 years",
+    "weightLimit": "350 pounds per sled",
+    "kidFriendly": true,
+    "kidNote": "Age minimum is 3. Child occupancy rules are published for children under 8.",
+    "bookingUrl": "https://wasatchadventureguides.com/winter-adventures-park-city/dog-sledding/",
+    "website": "https://wasatchadventureguides.com/",
+    "sources": [
+      {
+        "url": "https://wasatchadventureguides.com/winter-adventures-park-city/dog-sledding/",
+        "retrieved": "2026-11-19",
+        "what": "Park City per-sled prices, age 3, and 350 lb limit"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "bear-ridge-adventures",
+    "name": "Bear Ridge Adventures",
+    "state": "UT",
+    "town": "Coalville",
+    "summary": "Bear Ridge Adventures runs winter dog sled tours on private land in Summit County, about 25 minutes from Park City, at 965 South Hoytsville Road in Coalville. Sleds are tandem: one person sits and one stands, and guests can switch at the halfway point.",
+    "season": "Generally the first few weeks of December, depending on snow. Bookings can be made for December 7 and may be refunded if snow is not enough. A half-day tour starts January 15. The page says past opening dates have included late November and mid-December.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": "1 hour, 2 hours, or a half day.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": "2026-11-19",
+    "priceNote": "A tip example on the page lists a 1 sled / 1 hour tour at $400. The page does not state a full rate card for the 2-hour or half-day tours, and it does not say in a rate table whether $400 is per sled or per person. A 15% tip is described as recommended, and required for groups of 3 or more sleds.",
+    "minAge": null,
+    "weightLimit": "350 pound weight limit",
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://www.bearridgeadventures.com/",
+    "website": "https://www.bearridgeadventures.com/",
+    "sources": [
+      {
+        "url": "https://www.bearridgeadventures.com/",
+        "retrieved": "2026-11-19",
+        "what": "Coalville tours, December season, 350 lb limit, tandem sleds, and the $400 tip example"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "wolfsong-adventures",
+    "name": "Wolfsong Adventures in Mushing",
+    "state": "WI",
+    "town": "Bayfield",
+    "summary": "Wolfsong Adventures in Mushing runs hands-on dogsled trips from 86990 S. Pratt Road in Bayfield. The about page says some guests ride after helping harness, and others learn to drive their own team.",
+    "season": "Season months are not stated on the about page.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": null,
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://www.wolfsongadventures.com/about-us",
+    "website": "https://www.wolfsongadventures.com/",
+    "sources": [
+      {
+        "url": "https://www.wolfsongadventures.com/about-us",
+        "retrieved": "2026-11-19",
+        "what": "Bayfield address and ride or drive-your-own description"
+      }
+    ],
+    "partnerUrl": null
+  }
+]

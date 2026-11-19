@@ -35,20 +35,23 @@ Checked 19 November 2026. “With a published price” means the operator’s si
 
 | State | Operators | With a published price | Sources |
 | --- | ---: | ---: | --- |
-| Alaska | 14 | 11 | Operator websites, read 2026-11-19 |
-| Colorado | 8 | 6 | Operator websites, read 2026-11-19 |
+| Alaska | 16 | 13 | Operator websites, read 2026-11-19 |
+| Colorado | 9 | 6 | Operator websites, read 2026-11-19 |
 | Maine | 1 | 1 | Operator websites, read 2026-11-19 |
+| Massachusetts | 1 | 1 | Operator websites, read 2026-11-19 |
 | Michigan | 4 | 4 | Operator websites, read 2026-11-19 |
-| Minnesota | 4 | 4 | Operator websites, read 2026-11-19 |
+| Minnesota | 5 | 5 | Operator websites, read 2026-11-19 |
 | Montana | 3 | 3 | Operator websites, read 2026-11-19 |
 | New Hampshire | 1 | 1 | Operator websites, read 2026-11-19 |
+| New York | 1 | 1 | Operator websites, read 2026-11-19 |
+| Oregon | 1 | 1 | Operator websites, read 2026-11-19 |
 | Utah | 2 | 2 | Operator websites, read 2026-11-19 |
-| Vermont | 2 | 2 | Operator websites, read 2026-11-19 |
+| Vermont | 3 | 2 | Operator websites, read 2026-11-19 |
 | Wisconsin | 1 | 0 | Operator websites, read 2026-11-19 |
 | Wyoming | 1 | 1 | Operator websites, read 2026-11-19 |
-| **Total** | **41** | **35** | |
+| **Total** | **49** | **41** | |
 
-Operators with no dollar figure on the pages read: Alaska Sled Dog Tours (Talkeetna), Arctic Dog Adventure Co., Last Frontier Mushing Co-op, Alpine Adventures Dogsledding, San Juan Sled Dogs, and Wolfsong Adventures in Mushing.
+Operators with no dollar figure on the pages read: Alaska Sled Dog Tours (Talkeetna), Arctic Dog Adventure Co., Last Frontier Mushing Co-op, Alpine Adventures Dogsledding, San Juan Sled Dogs, Idarado Sled Dog Adventures, October Siberians, and Wolfsong Adventures in Mushing.
 
 ## Not included in this pass
 

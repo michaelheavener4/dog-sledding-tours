@@ -1446,5 +1446,269 @@
       }
     ],
     "partnerUrl": null
+  },
+  {
+    "id": "chena-outdoor-collective",
+    "name": "Chena Outdoor Collective",
+    "state": "AK",
+    "town": "Fairbanks",
+    "summary": "Chena Outdoor Collective sells guided winter dog sled rides at 7435 Chena Hot Springs Road, between Fairbanks and Chena Hot Springs Resort. The dogs live with their mushers and are brought in for the tours. Cart rides continue until there is enough snow for sleds.",
+    "season": "November 15\u2013March 31, snow dependent. The page said rides would hopefully begin November 24, with cart rides until then.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "30 minutes (about 20 minutes on the trail), 1 hour, or 1.5 hours (45 minutes of education and 45 minutes of riding).",
+    "priceMin": 90,
+    "priceMax": 225,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "30-minute ride: adults $90, children 12 and under $75. 1-hour ride: adults $175, children $150. 1.5-hour experience: adults $225, children $190. Two guests ride in each sled. If combined weight exceeds 430 pounds, an additional ticket is required. Guides drive the 30-minute and 1.5-hour tours.",
+    "minAge": null,
+    "weightLimit": "430 pounds maximum combined in the sled",
+    "kidFriendly": true,
+    "kidNote": "Children 12 and under have a published fare. A minimum age is not stated.",
+    "bookingUrl": "https://www.chenaoutdoorco.com/dogsledrides",
+    "website": "https://www.chenaoutdoorco.com/",
+    "sources": [
+      {
+        "url": "https://www.chenaoutdoorco.com/dogsledrides",
+        "retrieved": "2026-11-19",
+        "what": "Winter ride prices, season, weight, and Fairbanks address"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "alaska-dogstead",
+    "name": "The Alaska Dogstead",
+    "state": "AK",
+    "town": "Big Lake",
+    "summary": "The Alaska Dogstead, Team Petit's kennel near Big Lake, sells a 1.5-hour kennel and mushing tour. Summer runs use a wheeled cart and winter runs use sleds, with views of the Chugach and Alaska ranges.",
+    "season": "Summer wheeled cart and winter sled. Three tours daily. Month dates are not on the tours page.",
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": null,
+    "duration": "1.5 hours. Departures at 11 a.m., 1 p.m., and 3 p.m.",
+    "priceMin": 149,
+    "priceMax": 149,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Adults $149. Children under 12 $99.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "A children's fare is published for under 12. A minimum age is not stated.",
+    "bookingUrl": "https://www.alaskadogstead.com/tours",
+    "website": "https://www.alaskadogstead.com/",
+    "sources": [
+      {
+        "url": "https://www.alaskadogstead.com/tours",
+        "retrieved": "2026-11-19",
+        "what": "$149/$99 prices, 1.5-hour tour, Big Lake, summer cart and winter sled"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "idarado-sled-dog-adventures",
+    "name": "Idarado Sled Dog Adventures",
+    "state": "CO",
+    "town": "Telluride",
+    "summary": "Idarado Sled Dog Adventures, run by the Cook family, is taking reservations for the winter 2026/2027 season. They run one morning trip a day with two teams of 8\u201310 Alaskan huskies on national-forest trails near Telluride. A guide rides each sled.",
+    "season": "Winter 2026/2027. Reservations were marked open as of June 1, 2026. One morning trip, about 9 a.m., back in town around noon.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "Trail time about 1 hour minimum to 2 hours maximum. The outing is described as a half day.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": null,
+    "weightLimit": "350 pounds of guests per sled",
+    "kidFriendly": true,
+    "kidNote": "The site says kids of all ages are welcome, including babies. Groups are typically 4\u20135 people, two guests plus a guide on each sled.",
+    "bookingUrl": "https://www.telluridedogsledding.com/",
+    "website": "https://www.telluridedogsledding.com/",
+    "sources": [
+      {
+        "url": "https://www.telluridedogsledding.com/",
+        "retrieved": "2026-11-19",
+        "what": "2026/2027 reservations, Telluride trips, 350 lb limit; price by inquiry"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "positive-energy-outdoors",
+    "name": "Positive Energy Outdoors",
+    "state": "MN",
+    "town": "Duluth",
+    "summary": "Positive Energy Outdoors runs dogsled tours from 4757 Datka Road in Duluth, with a musher on each sled. Options include a bog tour, an Island Lake tour, a family tour, and combinations with draft horses.",
+    "season": "Listed as summer or winter for the kennel-and-horse visit. Sled-tour months are not stated on the dogsledding page.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "Bog tour, group tour, and the family tour are listed at 2 hours. A full-day Island Lake and draft-horse trip is also listed.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": "2026-11-19",
+    "priceNote": "The page lists $225 for a 2-hour bog tour, $595 for a group dogsledding experience that can include a horse-drawn sleigh, $275 for an Island Lake tour, $400 for a full day with draft horses, and $495 for a family tour. It does not say whether those amounts are per person or per sled.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Children under 60 pounds can ride with an adult on toboggan sleds, and children under 100 pounds can ride with an adult on double-driver sleds. The family tour says the dogs like meeting children.",
+    "bookingUrl": "https://outdooredventures.org/dog-sledding/",
+    "website": "https://outdooredventures.org/dog-sledding/",
+    "sources": [
+      {
+        "url": "https://outdooredventures.org/dog-sledding/",
+        "retrieved": "2026-11-19",
+        "what": "Duluth tour menu, listed prices, and child seating rules"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "october-siberians",
+    "name": "October Siberians",
+    "state": "VT",
+    "town": "Waterbury",
+    "summary": "October Siberians runs interactive dogsled tours at Little River State Park in Waterbury, near Stowe and the Mad River Valley. Two people can stand as drivers while the musher keeps control, and another passenger can sit in the sled bag. If there is not enough snow, the same time slot may switch to a cart.",
+    "season": "The site says this year's trips are back on the state-park routes and that snow can move a tour to a backup location or a cart. Month dates are not printed.",
+    "tourTypes": [
+      "drive-your-own",
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": null,
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The sled is described as fitting a family of four with two young children. The dogs are described as great with children. A numeric minimum age is not stated.",
+    "bookingUrl": "https://www.octobersiberians.com/",
+    "website": "https://www.octobersiberians.com/",
+    "sources": [
+      {
+        "url": "https://www.octobersiberians.com/",
+        "retrieved": "2026-11-19",
+        "what": "Waterbury tours, drive-with-the-musher format, and current-season note"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "hilltown-sleddogs",
+    "name": "Hilltown Sleddogs",
+    "state": "MA",
+    "town": "West Chesterfield",
+    "summary": "Hilltown Sleddogs in West Chesterfield sells dryland rig rides, dog-yard visits, and snow sled rides when there is enough snow. A November 27, 2026 vacation day camp is posted. The site says winter ride numbers are limited this year.",
+    "season": "Rides and lessons in winter, spring, and fall on snow or dryland. Summer dog-yard tours and hikes. A November 27, 2026 day camp is listed.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "Snow sled ride 1.5 hours. Training run, racing-rig ride, and drive-your-own lesson 2 hours. Dog-yard hike about 1.5 hours.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Snow sled ride, training run, racing-rig ride, and drive-your-own lesson are $225 for one person and $375 for two. Extra people after the pair are priced by age, from $50 to $150 depending on the product. Dog-yard hike is $75 for one person and $100 for two. Weight limits are under 230 lb on the snow ride, 225 lb on the training run, under 200 lb on the racing rig, and under 215 lb on the drive-your-own lesson.",
+    "minAge": null,
+    "weightLimit": "Under 230 lb per person on the snow sled ride; other products list 200\u2013225 lb",
+    "kidFriendly": true,
+    "kidNote": "Add-on fares are published for ages 2\u20136, 4\u20136, 7\u201312, and 13\u201317 depending on the product. The dog-yard hike is described as family friendly for any age.",
+    "bookingUrl": "https://www.hilltownsleddogs.com/tours",
+    "website": "https://www.hilltownsleddogs.com/",
+    "sources": [
+      {
+        "url": "https://www.hilltownsleddogs.com/tours",
+        "retrieved": "2026-11-19",
+        "what": "West Chesterfield prices, November 27 2026 camp, and weight limits"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "adirondack-kennel",
+    "name": "Adirondack Kennel",
+    "state": "NY",
+    "town": "Boylston",
+    "summary": "Adirondack Kennel meets riders in the town of Boylston at Winona Forest on New York's Tug Hill. A 2026 note says the kennel is still taking a limited number of sled rides while racing. Guests can drive with the musher on a safety line.",
+    "season": "Winter rides. A 2026 update says they are still booking a limited number of rides. Month dates are not printed.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": "Individual rides about 40 minutes. A kids loop is about 10\u201315 minutes. A winterfest block is 3 hours.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": "2026-11-19",
+    "priceNote": "Individual rides are $400 per sled for about 40 minutes, four people maximum. A 10-minute kids loop is $400 and asks for at least 10 people; fewer than 10 still pay $400. A 3-hour winterfest block is $2,750.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The kids loop is for children, up to 30, with two or three riders per trip. Individual sleds can take two adults and two smaller children.",
+    "bookingUrl": "https://adirondackkennel.weebly.com/pricing-and-more-info.html",
+    "website": "https://adirondackkennel.weebly.com/",
+    "sources": [
+      {
+        "url": "https://adirondackkennel.weebly.com/pricing-and-more-info.html",
+        "retrieved": "2026-11-19",
+        "what": "2026 ride note, Boylston meeting place, and per-sled prices"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "oregon-trail-of-dreams",
+    "name": "Oregon Trail of Dreams",
+    "state": "OR",
+    "town": "Bend",
+    "summary": "Oregon Trail of Dreams sells winter sled rides that meet in the Lower Sunrise lot at Mt. Bachelor. An eight-dog team runs a five-mile forest trail on the one-hour tour. A longer Cascade Lakes trip uses a 12-dog race team.",
+    "season": "Winter. One-hour tours Thursday\u2013Monday. Marathon trips Thursday and Friday. The booking page lists marathon blackouts from December 22, 2025 through January 5, 2026, plus January 16\u201318 and February 13\u201315, 2026. No one-hour trip on Christmas Day.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "One-hour Mt. Bachelor tour. Marathon trip about 4 hours and about 26 miles.",
+    "priceMin": 225,
+    "priceMax": 240,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-19",
+    "priceNote": "One-hour tour, per person: Sunday\u2013Friday adults $225 and children 80 lb and under $110; Saturday adults $235 and children $115; holiday adults $240 and children $125. Children ages 3\u201312 must ride with an adult. No more than three people per sled and 450 lb per sled. The marathon is $1,230 per trip, not per person, plus a $2 booking fee.",
+    "minAge": "3 years",
+    "weightLimit": "450 pounds and no more than 3 people per sled on the one-hour tour",
+    "kidFriendly": true,
+    "kidNote": "The hour tour is described as suitable for ages 3 to 103. Children 3\u201312 must ride with an adult. A child fare is published for guests 80 lb and under.",
+    "bookingUrl": "https://orsleddogrides.com/booking",
+    "website": "https://orsleddogrides.com/",
+    "sources": [
+      {
+        "url": "https://orsleddogrides.com/booking",
+        "retrieved": "2026-11-19",
+        "what": "Mt. Bachelor prices, ages, weight limit, and marathon rate"
+      }
+    ],
+    "partnerUrl": null
   }
 ]

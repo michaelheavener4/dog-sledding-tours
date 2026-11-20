@@ -1710,5 +1710,333 @@
       }
     ],
     "partnerUrl": null
-  }
+  },
+  {
+      "id": "northern-az-sled-dog-tours",
+      "name": "Northern AZ Sled Dog Tours",
+      "state": "AZ",
+      "town": "Coconino National Forest",
+      "summary": "Northern AZ Sled Dog Tours is Denise Edwards's owner-operated ride in the Coconino National Forest under a Forest Service special-use permit. When the trail is packed the dogs pull a sled; otherwise they pull a motorless wheeled rig. The visit is about two hours and includes a safety briefing and time with the dogs.",
+      "season": null,
+      "tourTypes": [
+        "ride-along"
+      ],
+      "driveYourOwn": null,
+      "duration": "About 2 hours, including preparation, a safety briefing, meeting the dogs, and the guided tour.",
+      "priceMin": 400,
+      "priceMax": 400,
+      "priceBasis": "per-person",
+      "priceAsOf": "2026-11-20",
+      "priceNote": "Adults 18 and older $400. Youth 5-17 $300. Young child 3-4 $75. The price table lists $300 for a veteran or senior and says to contact the operator. Shorter or longer options may be available by request. Children under 2 cannot participate.",
+      "minAge": "Children under 2 cannot participate",
+      "weightLimit": null,
+      "kidFriendly": true,
+      "kidNote": "Youth and young-child prices are published. Children under 2 are excluded.",
+      "bookingUrl": "https://www.nazsleddogtours.com/",
+      "website": "https://www.nazsleddogtours.com/",
+      "sources": [
+        {
+          "url": "https://www.nazsleddogtours.com/",
+          "retrieved": "2026-11-20",
+          "what": "Coconino National Forest tours, two-hour visit, sled or wheeled rig, and age prices"
+        }
+      ],
+      "partnerUrl": null
+    },
+    {
+      "id": "priest-lake-huskies",
+      "name": "Priest Lake Huskies Sled Tours",
+      "state": "ID",
+      "town": "Coolin",
+      "summary": "Priest Lake Huskies Sled Tours sells guided sled trips on permitted Idaho endowment land in the South Priest Lake area near Coolin. A guide mushes the team. The FAQ says they may teach a guest to drive when conditions allow, and a separate learn-to-drive workshop is sold for ages 12-17.",
+      "season": "The FAQ says the season is generally 3-4 months. The booking page is labeled 2026/2027. Closed Sundays.",
+      "tourTypes": [
+        "ride-along"
+      ],
+      "driveYourOwn": false,
+      "duration": "About 2 hours on the product page; the FAQ says 1.5 to 2 hours. The route is 8 to 12 miles.",
+      "priceMin": 550,
+      "priceMax": 625,
+      "priceBasis": "per-sled",
+      "priceAsOf": "2026-11-20",
+      "priceNote": "Prices are per sled, not per person. Monday-Thursday cash rate $550, which the page says to book by phone, or $600 by credit card. Friday and Saturday $600. Holiday dates printed on the product page (Christmas and New Year's, Martin Luther King weekend, and Presidents Day weekend) $625. A sled holds up to two adults and possibly a small child.",
+      "minAge": "No children under 4 on the sled tour",
+      "weightLimit": "Product page and FAQ: 375 lb per sled. Weight policy page: 400 lb passenger limit per sled.",
+      "kidFriendly": true,
+      "kidNote": "The sled-tour page says no children under 4, and also that a sled may hold two adults and possibly a small child. A meet-and-greet seminar is sold for children of all ages, with kids under 5 free. The learn-to-drive workshop is for ages 12-17.",
+      "bookingUrl": "https://plhuskies.com/book-a-tour/",
+      "website": "https://plhuskies.com/",
+      "sources": [
+        {
+          "url": "https://plhuskies.com/product/2-person-dog-sled-tour/",
+          "retrieved": "2026-11-20",
+          "what": "Per-sled prices, about 2 hours, 8-12 miles, age and weight lines"
+        },
+        {
+          "url": "https://plhuskies.com/faq/",
+          "retrieved": "2026-11-20",
+          "what": "Coolin trailhead, season length, guide drives, 375 lb limit"
+        },
+        {
+          "url": "https://plhuskies.com/weight-limit-policy/",
+          "retrieved": "2026-11-20",
+          "what": "400 lb passenger weight limit per sled"
+        },
+        {
+          "url": "https://plhuskies.com/book-a-tour/",
+          "retrieved": "2026-11-20",
+          "what": "2026/2027 booking page and learn-to-drive workshop ages"
+        }
+      ],
+      "partnerUrl": null
+    },
+    {
+      "id": "maryland-sled-dog-adventures",
+      "name": "Maryland Sled Dog Adventures",
+      "state": "MD",
+      "town": "Monkton",
+      "summary": "Maryland Sled Dog Adventures runs mushing programs on the Torrey C. Brown Rail Trail in northern Baltimore County. Trailheads are within about 10 minutes of Monkton. The individual tour is about three hours with one rider at a time, on a sled or a wheeled rig, and the tours page says a guest may drive.",
+      "season": "October through March for the tours and group programs described on the tours page.",
+      "tourTypes": [
+        "ride-along",
+        "drive-your-own"
+      ],
+      "driveYourOwn": true,
+      "duration": "About 3 hours for the individual tour. Scout and youth programs about 3 to 4 hours. Birthday parties about 2 to 3 hours.",
+      "priceMin": 740,
+      "priceMax": 740,
+      "priceBasis": "per-person",
+      "priceAsOf": "2026-11-20",
+      "priceNote": "2025-26 individual tour: $740 per person, one rider, with non-riding guests $10. Scout and youth-group programs: $120 per child, including a patch, minimum 14 and maximum 20 children; adult chaperones are not charged and do not ride. Birthday parties: $1680 for up to 14 children, then $120 per additional child up to 20. A virtual meet-and-greet is $25 per person.",
+      "minAge": "5 years on the in-person programs described on the tours page",
+      "weightLimit": "Generally 200 lb or less. The reservations page says the limit varies with temperature, run length, and rig versus sled.",
+      "kidFriendly": true,
+      "kidNote": "In-person programs are described as suitable for ages 5 and up. A non-riding adult must accompany each child under 18 on the individual tour. Group programs require at least three adults and do not give those adults a ride.",
+      "bookingUrl": "http://www.marylanddogsledding.com/Reservations.htm",
+      "website": "http://www.marylanddogsledding.com/",
+      "sources": [
+        {
+          "url": "http://www.marylanddogsledding.com/Tours.htm",
+          "retrieved": "2026-11-20",
+          "what": "2025-26 prices, October-March season, ages, and drive-or-ride option"
+        },
+        {
+          "url": "http://www.marylanddogsledding.com/Reservations.htm",
+          "retrieved": "2026-11-20",
+          "what": "Monkton trailheads and 200 lb weight note"
+        }
+      ],
+      "partnerUrl": null
+    },
+    {
+      "id": "boundary-country-trekking",
+      "name": "Boundary Country Trekking",
+      "state": "MN",
+      "town": "Grand Marais",
+      "summary": "Boundary Country Trekking, on the Gunflint Trail at Grand Marais, sells winter trips on which guests take turns mushing their own team while a guide travels on a separate sled. The published trips pair the mushing with nights at Poplar Creek Guesthouse, and the longer trip adds a night at the Croft Yurt.",
+      "season": "Boundary Waters trips December through mid-March, depending on snow. Day-trip packages begin in early December. Two- to three-day trips run from the third week of January through mid-March.",
+      "tourTypes": [
+        "drive-your-own",
+        "overnight"
+      ],
+      "driveYourOwn": true,
+      "duration": "Half-day or full-day mushing on the guesthouse packages. The longer trip is two full days of mushing.",
+      "priceMin": null,
+      "priceMax": null,
+      "priceBasis": "unspecified",
+      "priceAsOf": "2026-11-20",
+      "priceNote": "Full day of mushing and two nights at Poplar Creek B&B: $1132 for 2 persons. Half day of mushing and two nights: $924 for 2 persons. Two full days of mushing and two nights, including the Croft Yurt: $2100 for 2 persons. Taxes and gratuities are not included. Reservations are by phone or email.",
+      "minAge": null,
+      "weightLimit": null,
+      "kidFriendly": null,
+      "kidNote": null,
+      "bookingUrl": "https://boundarycountry.com/dogsled.html",
+      "website": "https://boundarycountry.com/",
+      "sources": [
+        {
+          "url": "https://boundarycountry.com/dogsled.html",
+          "retrieved": "2026-11-20",
+          "what": "Gunflint Trail trips, drive-your-own format, season, and package rates"
+        }
+      ],
+      "partnerUrl": null
+    },
+    {
+      "id": "suomi-hills-kennel",
+      "name": "Suomi Hills Kennel",
+      "state": "MN",
+      "town": "Swatara",
+      "summary": "Suomi Hills Kennel in Swatara sells a one-hour tandem-sled tour for two adults and also lists kennel visits, school presentations, and group rides. Joel Kersting is named on the site as the musher. The tours page publishes more than one dollar figure for an hour-long outing.",
+      "season": null,
+      "tourTypes": [
+        "ride-along",
+        "kennel-tour"
+      ],
+      "driveYourOwn": null,
+      "duration": "One hour for the premier tour. Group presentations are priced by the day.",
+      "priceMin": null,
+      "priceMax": null,
+      "priceBasis": "unspecified",
+      "priceAsOf": "2026-11-20",
+      "priceNote": "The tours page says a one-hour tour is $50, or dog sledding for dinner and group presentations or rides is $100. The premier one-hour tour is listed separately as $275 for 2 adults. Large-group presentations and corporate or group tours are $550 per day. Reservations require a non-refundable down payment.",
+      "minAge": null,
+      "weightLimit": null,
+      "kidFriendly": null,
+      "kidNote": null,
+      "bookingUrl": "https://www.sleddogmn.com/tours.html",
+      "website": "https://www.sleddogmn.com/",
+      "sources": [
+        {
+          "url": "https://www.sleddogmn.com/tours.html",
+          "retrieved": "2026-11-20",
+          "what": "Swatara one-hour tour, tandem sled, and published rates"
+        },
+        {
+          "url": "https://www.sleddogmn.com/",
+          "retrieved": "2026-11-20",
+          "what": "Kennel tours, group rides, and Swatara address"
+        }
+      ],
+      "partnerUrl": null
+    },
+    {
+      "id": "morrison-racing-kennel",
+      "name": "Morrison Racing Kennel",
+      "state": "MT",
+      "town": "Paradise Valley",
+      "summary": "Morrison Racing Kennel runs a 10-mile dogsled tour on the Mill Creek trails in Paradise Valley from December through March. Guests can sit in a toboggan while a musher drives, or stand on a double-driver sled and drive while the musher guides.",
+      "season": "December through March, trail conditions permitting.",
+      "tourTypes": [
+        "ride-along",
+        "drive-your-own"
+      ],
+      "driveYourOwn": true,
+      "duration": "About 3 hours total, with about 1.5 hours on the trail. The described route is 10 miles.",
+      "priceMin": 300,
+      "priceMax": 300,
+      "priceBasis": "per-person",
+      "priceAsOf": "2026-11-20",
+      "priceNote": "Ages 13 and up $300. Ages 5-12 $200. Two departures, 10 am and 1 pm. Trips are limited to 6 adults, or a mix of adults and children, unless arranged ahead.",
+      "minAge": "5 years",
+      "weightLimit": "No numeric limit. Passengers must be moderately fit and able to walk a short distance in deep snow.",
+      "kidFriendly": true,
+      "kidNote": "Children must be 5 or older. Ages 5-12 ride as lap passengers and do not stand on the double-driver sleds.",
+      "bookingUrl": "https://www.morrisonracingkennel.com/dog-sled-tours",
+      "website": "https://www.morrisonracingkennel.com/",
+      "sources": [
+        {
+          "url": "https://www.morrisonracingkennel.com/dog-sled-tours",
+          "retrieved": "2026-11-20",
+          "what": "10-mile tour price, duration, ages, and double-driver sleds"
+        },
+        {
+          "url": "https://www.morrisonracingkennel.com/",
+          "retrieved": "2026-11-20",
+          "what": "December-March season and Paradise Valley location"
+        },
+        {
+          "url": "https://www.morrisonracingkennel.com/faq",
+          "retrieved": "2026-11-20",
+          "what": "Mill Creek trailhead and temperature window"
+        }
+      ],
+      "partnerUrl": null
+    },
+    {
+      "id": "paws-up-montana",
+      "name": "Paws Up Montana",
+      "state": "MT",
+      "town": "Greenough",
+      "summary": "Paws Up Montana sells dogsledding at its ranch in Greenough. The one-hour trip is a ride after meeting the dogs. The two-hour Iditarod Experience adds time on the trail and a chance to drive the sled.",
+      "season": "Winter, as labeled on the rates.",
+      "tourTypes": [
+        "ride-along",
+        "drive-your-own"
+      ],
+      "driveYourOwn": true,
+      "duration": "1 hour for the dogsled tour. 2 hours for the Iditarod Experience.",
+      "priceMin": 255,
+      "priceMax": 450,
+      "priceBasis": "per-person",
+      "priceAsOf": "2026-11-20",
+      "priceNote": "Dogsled tour: $255 per person, 1 hour. Iditarod Experience: $450 per person, 2 hours. Both are listed for ages 3 and up in winter.",
+      "minAge": "3 years",
+      "weightLimit": null,
+      "kidFriendly": true,
+      "kidNote": "Both trips are listed for ages 3 and up.",
+      "bookingUrl": "https://www.pawsup.com/adventure/dogsledding/",
+      "website": "https://www.pawsup.com/",
+      "sources": [
+        {
+          "url": "https://www.pawsup.com/adventure/dogsledding/",
+          "retrieved": "2026-11-20",
+          "what": "Greenough rates, durations, ages, and the driving option on the two-hour trip"
+        }
+      ],
+      "partnerUrl": null
+    },
+    {
+      "id": "call-of-the-wyld",
+      "name": "Call of the WYld",
+      "state": "WY",
+      "town": "Teton Village",
+      "summary": "Call of the WYld sells private one-hour dogsled tours on a groomed trail at the base of the Tetons in Teton Village. A guide drives the team of Alaskan huskies. The page says guests may be allowed to stand with the guide on a section of trail when conditions allow.",
+      "season": "Typically early to mid-December through the first week of April. No tours on Tuesdays or Thursdays. Morning slots at 9, 10, and 11 am and afternoon slots at 1, 2, and 3 pm.",
+      "tourTypes": [
+        "ride-along"
+      ],
+      "driveYourOwn": false,
+      "duration": "1 hour total, with about 40-45 minutes on the trail.",
+      "priceMin": 450,
+      "priceMax": 550,
+      "priceBasis": "per-sled",
+      "priceAsOf": "2026-11-20",
+      "priceNote": "Per sled, up to 2 guests. Regular season $450. Holiday dates December 16, 2026-January 4, 2027, January 16-18, 2027, and February 13-15, 2027: $550. Combined weight limit 400 lb per sled. If there is not enough snow the operator may switch to a wheeled cart or an ATV at a partial refund rather than cancel.",
+      "minAge": "2 years",
+      "weightLimit": "400 lb combined per sled",
+      "kidFriendly": true,
+      "kidNote": "Minimum age is 2. Children 13 or younger must ride with an adult in the same sled. Participants must be able to sit upright, stand, and walk unassisted.",
+      "bookingUrl": "https://callofthewyld.com/tour-information/winter-tour-options/village/",
+      "website": "https://callofthewyld.com/",
+      "sources": [
+        {
+          "url": "https://callofthewyld.com/tour-information/winter-tour-options/village/",
+          "retrieved": "2026-11-20",
+          "what": "Teton Village 2026-27 season, per-sled prices, age, and weight limit"
+        }
+      ],
+      "partnerUrl": null
+    },
+    {
+      "id": "heart-six-guest-ranch",
+      "name": "Heart Six Guest Ranch",
+      "state": "WY",
+      "town": "Moran",
+      "summary": "Heart Six Guest Ranch in Moran lists dogsledding as a daily activity that people can book without staying at the ranch. The dogsled page says transportation to and from Jackson is available. It does not publish a season window, a duration, or a fare.",
+      "season": null,
+      "tourTypes": [
+        "ride-along"
+      ],
+      "driveYourOwn": null,
+      "duration": null,
+      "priceMin": null,
+      "priceMax": null,
+      "priceBasis": null,
+      "priceAsOf": null,
+      "priceNote": null,
+      "minAge": null,
+      "weightLimit": null,
+      "kidFriendly": null,
+      "kidNote": null,
+      "bookingUrl": "https://heartsix.com/dogsledding/",
+      "website": "https://heartsix.com/",
+      "sources": [
+        {
+          "url": "https://heartsix.com/dogsledding/",
+          "retrieved": "2026-11-20",
+          "what": "Daily dogsledding at the Moran ranch, open to non-guests, no published fare"
+        }
+      ],
+      "partnerUrl": null
+    }
 ]

@@ -31,19 +31,19 @@ Only add an operator whose own site is live and currently selling tours. A name 
 
 ## Coverage
 
-Checked 19–20 November 2026. “With a published price” means the operator’s site showed a dollar figure (per person, per sled, or a booking-page amount). It does not mean every product has a per-person rate.
+Checked 19–21 November 2026. “With a published price” means the operator’s site showed a dollar figure (per person, per sled, a booking-page amount, or another printed charge). It does not mean every product has a per-person rate.
 
 | State | Operators | With a published price | Sources |
 | --- | ---: | ---: | --- |
-| Alaska | 16 | 13 | Operator websites, read 2026-11-19 |
+| Alaska | 21 | 16 | Operator websites, read 2026-11-19 and 2026-11-21 |
 | Arizona | 1 | 1 | Operator website, read 2026-11-20 |
-| Colorado | 9 | 6 | Operator websites, read 2026-11-19 |
+| Colorado | 10 | 6 | Operator websites, read 2026-11-19 and 2026-11-21 |
 | Idaho | 1 | 1 | Operator website, read 2026-11-20 |
 | Maine | 1 | 1 | Operator websites, read 2026-11-19 |
 | Maryland | 1 | 1 | Operator website, read 2026-11-20 |
 | Massachusetts | 1 | 1 | Operator websites, read 2026-11-19 |
 | Michigan | 4 | 4 | Operator websites, read 2026-11-19 |
-| Minnesota | 7 | 7 | Operator websites, read 2026-11-19 and 2026-11-20 |
+| Minnesota | 8 | 8 | Operator websites, read 2026-11-19, 2026-11-20, and 2026-11-21 |
 | Montana | 5 | 5 | Operator websites, read 2026-11-19 and 2026-11-20 |
 | New Hampshire | 1 | 1 | Operator websites, read 2026-11-19 |
 | New York | 1 | 1 | Operator websites, read 2026-11-19 |
@@ -51,10 +51,10 @@ Checked 19–20 November 2026. “With a published price” means the operator�
 | Utah | 2 | 2 | Operator websites, read 2026-11-19 |
 | Vermont | 3 | 2 | Operator websites, read 2026-11-19 |
 | Wisconsin | 1 | 0 | Operator websites, read 2026-11-19 |
-| Wyoming | 3 | 2 | Operator websites, read 2026-11-19 and 2026-11-20 |
-| **Total** | **58** | **49** | |
+| Wyoming | 4 | 2 | Operator websites, read 2026-11-19, 2026-11-20, and 2026-11-21 |
+| **Total** | **66** | **53** | |
 
-Operators with no dollar figure on the pages read: Alaska Sled Dog Tours (Talkeetna), Arctic Dog Adventure Co., Last Frontier Mushing Co-op, Alpine Adventures Dogsledding, San Juan Sled Dogs, Idarado Sled Dog Adventures, October Siberians, Wolfsong Adventures in Mushing, and Heart Six Guest Ranch.
+Operators with no dollar figure on the pages read: Alaska Sled Dog Tours (Talkeetna), Arctic Dog Adventure Co., Last Frontier Mushing Co-op, Alpine Adventures Dogsledding, San Juan Sled Dogs, Idarado Sled Dog Adventures, October Siberians, Wolfsong Adventures in Mushing, Heart Six Guest Ranch, Gold Rush Dog Tours, Team Zappa, Jackson Hole Iditarod Sled Dog Tours, and Mountain Musher. Alaska Icefield Expeditions prints a $150 weight surcharge and not the tour fare. Dream a Dream Sled Dog Tours prints $1,049 for the musher school and no fare for the 2–2.5 hour visit.
 
 ## Not included in this pass
 
@@ -68,7 +68,8 @@ Operators with no dollar figure on the pages read: Alaska Sled Dog Tours (Talkee
 - Thunderfeet Kennel appeared on the old dogsledrides list; a working operator site was not found.
 - Happy Trails Kennel’s site is a boarding kennel. EarthSong Lodge’s current site is cabin rentals.
 - Iditarod.com and alaska.org prices were not copied onto listings.
-- Checked 20 November 2026 and not added: `northwestdogsledadventuresllc.com`, `tahoedogsledtours.com`, and `mammothdogteams.com` did not resolve. `huskypowerdogsledding.com` is not a kennel site. `prairieisledogtrekking.com` is a domain-for-sale page. `jhsleddog.com` returned an error page. Tetons and Beyond’s ride page says public locations and reservations are still coming. Arctic Paws Dog Sled Tours states that the 2025–26 season is closed and does not list a later season for sale.
+- Checked 20 November 2026 and not added: `northwestdogsledadventuresllc.com`, `tahoedogsledtours.com`, and `mammothdogteams.com` did not resolve. `huskypowerdogsledding.com` is not a kennel site. `prairieisledogtrekking.com` is a domain-for-sale page. Tetons and Beyond’s ride page says public locations and reservations are still coming. Arctic Paws Dog Sled Tours states that the 2025–26 season is closed and does not list a later season for sale. `jhsleddog.com` returned an error page that day; it loaded on 21 November 2026 and Jackson Hole Iditarod Sled Dog Tours was added.
+- Checked 21 November 2026 and not added: Spirit of the North (`huskypower.com`) still describes Big Sky and West Yellowstone trips, but the only printed fares sit on a Christmas page that cites 2019 and 2020 race results. Gunflint Lodge’s dog-mushing package is marked TBD, with the dollar amounts blank, and dog sledding is not in the current winter activities menu. Wintermoon Summersun’s current site says the homestead burned in May 2025 and the operation is rebuilding. Sno-Trek’s adventure page is still labeled Winter 2022–2023. `barking-brook.com` no longer shows the kennel. Togwotee Mountain Lodge’s dog-sled page is a booking front for Continental Divide Dog Sled Adventures, which is already listed.
 
 ## GitHub Pages
 

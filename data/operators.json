@@ -2038,5 +2038,318 @@
         }
       ],
       "partnerUrl": null
-    }
+    },
+  {
+    "id": "northstar-helicopters",
+    "name": "NorthStar Helicopters",
+    "state": "AK",
+    "town": "Juneau",
+    "summary": "NorthStar Helicopters sells a glacier dogsled trip that flies from its Douglas Island base in Juneau to a dog camp on the Norris Glacier. The listed visit is 3.25 hours, with about 30 minutes in the helicopter and an hour on the glacier, including a mush of about a mile. The page does not say whether the guest or the guide drives.",
+    "season": null,
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": null,
+    "duration": "3.25 hours total, with about 30 minutes of helicopter time and 1 hour on the glacier. The mush is about 1 mile.",
+    "priceMin": 789,
+    "priceMax": 789,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-21",
+    "priceNote": "Passenger fare $789. Passengers weighing 250 lb or more pay an additional $250 helicopter surcharge. No separate child fare is listed. Ages 2 and older.",
+    "minAge": "2 years",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Guests must be at least 2 years old. The page does not publish a separate child fare.",
+    "bookingUrl": "https://northstartrekking.com/adventures/juneau-glacier-dog-sled-adventure/",
+    "website": "https://northstartrekking.com/",
+    "sources": [
+      {
+        "url": "https://northstartrekking.com/adventures/juneau-glacier-dog-sled-adventure/",
+        "retrieved": "2026-11-21",
+        "what": "Juneau passenger fare, 3.25-hour duration, age 2+, and the 250 lb surcharge"
+      },
+      {
+        "url": "https://northstartrekking.com/faqs/",
+        "retrieved": "2026-11-21",
+        "what": "Norris Glacier camp and Douglas Island departure base"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "alaska-icefield-expeditions",
+    "name": "Alaska Icefield Expeditions",
+    "state": "AK",
+    "town": "Juneau",
+    "summary": "Alaska Icefield Expeditions runs a summer helicopter dogsled trip from Juneau to a camp on Herbert Glacier. A musher drives the lead sled, and a guest can stand on the runners of a tag sled. The company's Skagway page describes a glacier dog visit that does not include a sled ride.",
+    "season": "Juneau dogsled rides: middle of May through late August. The Skagway page, which says guests do not ride a sled, lists May through September.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "Juneau tour about 2 hours 45 minutes, with about an hour at the glacier camp and 20 to 25 minutes of sled time. The Skagway visit is listed at about 2 hours.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": "unspecified",
+    "priceAsOf": "2026-11-21",
+    "priceNote": "The tour fare is not printed. A $150 surcharge applies for passengers weighing 250 lb or more. The Juneau page says child prices match adult prices. Children under 24 months fly free as a lap child.",
+    "minAge": "Children under 12 must fly with a parent or guardian; under 24 months may fly free as a lap child",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Child prices are said to match adult prices, which are not printed. Children under 12 need a parent or guardian on the aircraft. Ages 12 to 17 need a parental consent form if they fly without one. Lap children under 24 months fly free.",
+    "bookingUrl": "https://alaskaicefieldexpeditions.com/juneau-glacier-dog-sledding-helicopter-flightseeing-tours/",
+    "website": "https://alaskaicefieldexpeditions.com/",
+    "sources": [
+      {
+        "url": "https://alaskaicefieldexpeditions.com/juneau-glacier-dog-sledding-helicopter-flightseeing-tours/",
+        "retrieved": "2026-11-21",
+        "what": "Herbert Glacier ride, tag-sled driving, season, duration, and the $150 surcharge"
+      },
+      {
+        "url": "https://alaskaicefieldexpeditions.com/skagway-glacier-dog-sledding-helicopter-flightseeing-tours/",
+        "retrieved": "2026-11-21",
+        "what": "Skagway visit is hands-on with the dogs and does not include a sled ride"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "gold-rush-dog-tours",
+    "name": "Gold Rush Dog Tours",
+    "state": "AK",
+    "town": "Juneau",
+    "summary": "Gold Rush Dog Tours sells a summer cart ride in the Sheep Creek valley near Juneau. A musher and handler drive a cart pulled by 10 to 12 dogs, with up to eight guests aboard. The camp visit is about an hour, including about 20 minutes of riding, and the operator asks guests to allow 2 hours and 15 minutes with the drive from downtown.",
+    "season": "May through September.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "About 1 hour in camp, with about 20 minutes on the cart. Allow about 2 hours 15 minutes including transportation from downtown Juneau.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://www.goldrushdogs.com/summer-cart-mushing-in-juneau-alaska/",
+    "website": "https://www.goldrushdogs.com/",
+    "sources": [
+      {
+        "url": "https://www.goldrushdogs.com/summer-cart-mushing-in-juneau-alaska/",
+        "retrieved": "2026-11-21",
+        "what": "Sheep Creek summer cart ride, about an hour in camp and 20 minutes riding"
+      },
+      {
+        "url": "https://www.goldrushdogs.com/frequently-asked-questions/",
+        "retrieved": "2026-11-21",
+        "what": "May-September season, musher drives, 10-12 dogs, and the 2-hour-15-minute allowance"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "dream-a-dream-sled-dog-tours",
+    "name": "Dream a Dream Sled Dog Tours",
+    "state": "AK",
+    "town": "Willow",
+    "summary": "Dream a Dream Sled Dog Tours in Willow sells a 2 to 2.5 hour homestead visit with a sled-dog ride, an Iditarod presentation, time with puppies, and a kennel tour. That fare is not printed. A separate introductory musher school runs four days and three nights, and guests drive their own teams.",
+    "season": "Summer tours May 15 through September 15. Fall tours September 15 through December 1. The musher-school page does not state dates.",
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour",
+      "drive-your-own",
+      "overnight"
+    ],
+    "driveYourOwn": true,
+    "duration": "Day tours 2 to 2.5 hours. Introductory musher school is four days and three nights.",
+    "priceMin": 1049,
+    "priceMax": 1049,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-21",
+    "priceNote": "Introductory Musher's School: $1049 per person for four days and three nights, ages 18 to 60, minimum 2 and maximum 4 guests. The summer and fall tour pages do not print a fare. The lodging page says bed-and-breakfast guests receive a discounted tour rate and does not state the amount.",
+    "minAge": "18 to 60 on the musher school; the day-tour pages do not state a minimum age",
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://dreamsleddogtours.com/summer-tours/",
+    "website": "https://dreamsleddogtours.com/",
+    "sources": [
+      {
+        "url": "https://dreamsleddogtours.com/summer-tours/",
+        "retrieved": "2026-11-21",
+        "what": "Summer dates, 2-2.5 hour ride, kennel tour, and no printed fare"
+      },
+      {
+        "url": "https://dreamsleddogtours.com/fall-tours/",
+        "retrieved": "2026-11-21",
+        "what": "Fall dates, September 15 through December 1, same visit format"
+      },
+      {
+        "url": "https://dreamsleddogtours.com/racing/",
+        "retrieved": "2026-11-21",
+        "what": "Musher school price, ages, group size, and drive-your-own days"
+      },
+      {
+        "url": "https://dreamsleddogtours.com/lodging-bed-and-breakfast-alaska/",
+        "retrieved": "2026-11-21",
+        "what": "Bed-and-breakfast guests get a discounted tour rate, amount not stated"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "team-zappa",
+    "name": "Team Zappa",
+    "state": "AK",
+    "town": "Ninilchik",
+    "summary": "Team Zappa offers small-group dog sled visits of about three hours, including time with the dogs, from the Caribou Hills in winter. The address on the site is in Ninilchik. Summer dog-cart rides run from June through September at a Kasilof location. No fare, age, or weight limit is printed.",
+    "season": "Summer dog-cart rides June through September at Kasilof. Winter sled visits while the team is in the Caribou Hills; no start or end date is printed.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": null,
+    "duration": "About 3 hours total for the winter sled visit, including time with the dogs.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://teamzappa.com/",
+    "website": "https://teamzappa.com/",
+    "sources": [
+      {
+        "url": "https://teamzappa.com/",
+        "retrieved": "2026-11-21",
+        "what": "Ninilchik address, three-hour Caribou Hills sled visit, and June-September Kasilof cart rides"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "chilly-dogs-sled-dog-trips",
+    "name": "Chilly Dogs Sled Dog Trips",
+    "state": "MN",
+    "town": "Ely",
+    "summary": "Chilly Dogs Sled Dog Trips runs winter sled trips from an outpost on Esterberg Road, about five miles from downtown Ely, plus a shorter autumn training run. Winter guests get a sled-driving orientation and can ride in the sled or stand on the runners. The Snowy Owl trip is about an hour and 8 miles on the trail; the Backcountry Trek is about two hours and 15 miles.",
+    "season": "Winter trips generally mid-December through late March. Autumn mushing typically from October until there is enough snow to use sleds.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": "Snowy Owl: about 1 hour and 8 miles on the trail, about 3 hours or more for the visit. Backcountry Trek: about 2 hours and 15 miles on the trail, about 4 hours for the visit. Autumn run: about 1.5 to 2 hours, with a 30-minute ride.",
+    "priceMin": 120,
+    "priceMax": 310,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-21",
+    "priceNote": "2026/2027 Snowy Owl, per person: ages 15+ $240 weekday and $260 weekend/holiday; ages 6-14 $170 and $190; age 5 and under $70 and $80. Backcountry Trek: ages 15+ $280 weekday and $310 weekend/holiday; ages 6-14 $210 and $230; age 5 and under $90 and $100. Weekend/holiday means Saturdays, Sundays, December 26 through January 1, and the MLK and Presidents Day Mondays. Autumn training run: $120 ages 15+, $95 ages 6-14, $50 age 5 and under. The band uses the lowest and highest published adult rates.",
+    "minAge": null,
+    "weightLimit": "About 275 lb per person on the Snowy Owl trip and about 245 lb on the Backcountry Trek",
+    "kidFriendly": true,
+    "kidNote": "The Snowy Owl trip is described as suitable for all ages. Youth rates are published for ages 6-14 and for age 5 and under on the winter and autumn trips.",
+    "bookingUrl": "https://www.elydogsledtrips.com/trips",
+    "website": "https://www.elydogsledtrips.com/",
+    "sources": [
+      {
+        "url": "https://www.elydogsledtrips.com/trips",
+        "retrieved": "2026-11-21",
+        "what": "2026/2027 rates, distances, weight limits, and the autumn training-run fare"
+      },
+      {
+        "url": "https://www.elydogsledtrips.com/",
+        "retrieved": "2026-11-21",
+        "what": "Ely outpost, mid-December through late March, and ride-or-drive option"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "jackson-hole-iditarod-sled-dog-tours",
+    "name": "Jackson Hole Iditarod Sled Dog Tours",
+    "state": "WY",
+    "town": "Jackson",
+    "summary": "Jackson Hole Iditarod Sled Dog Tours takes guests from Jackson into Granite Creek and the Bridger-Teton National Forest on half-day and full-day sled trips. A guide drives, and the site says guests can also run a team with the musher. The full-day trip continues to Granite Hot Springs and includes lunch. Fares are sent on request and are not printed on the pages read.",
+    "season": "Depending on snow, the season can start as early as late November and often runs into April.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": "Half day: pickup about 8:00 a.m., return about 1:30 p.m. Full day: pickup about 8:00 a.m., return about 4:30 p.m. An occasional afternoon half day picks up about 11:45 a.m. and returns about 4:30 p.m.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://jhsleddog.com/trip-information/",
+    "website": "https://jhsleddog.com/",
+    "sources": [
+      {
+        "url": "https://jhsleddog.com/trip-information/",
+        "retrieved": "2026-11-21",
+        "what": "Half-day and full-day times, late November into April, Granite Hot Springs, rates on request"
+      },
+      {
+        "url": "https://jhsleddog.com/dog-sledding-introduction/",
+        "retrieved": "2026-11-21",
+        "what": "Guests may drive with the musher or ride while the guide drives"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "mountain-musher",
+    "name": "Mountain Musher",
+    "state": "CO",
+    "town": "Wolcott",
+    "summary": "Mountain Musher runs guided sled rides on a private ranch in Wolcott, about 10 miles west of Beaver Creek. A musher drives a team of 8 to 10 Alaskan huskies over a five-mile trail, with up to two guests in the basket. If the trail allows, guests may try driving on the way back from a halfway stop, and children on the sled are given priority for that turn.",
+    "season": "December through March, snow and temperature permitting. The booking page says they aim to open by mid-December and run through March. Monday through Saturday. No Sunday tours.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "About 1.5 hours on the trail and about 2 hours from the van departure to the return. The trail is five miles. Vans leave at 9:15 a.m. and 12:30 p.m.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": "4 years",
+    "weightLimit": "400 lb combined for the guests on one sled",
+    "kidFriendly": true,
+    "kidNote": "Children must be at least 4. Pregnant guests are not taken. If children are on the sled they are given priority to try driving when the trail allows.",
+    "bookingUrl": "https://www.mountainmusher.com/booking",
+    "website": "https://www.mountainmusher.com/",
+    "sources": [
+      {
+        "url": "https://www.mountainmusher.com/tour",
+        "retrieved": "2026-11-21",
+        "what": "Wolcott trail, guide drives, five miles, ages, 400 lb sled limit, and the optional driving try"
+      },
+      {
+        "url": "https://www.mountainmusher.com/",
+        "retrieved": "2026-11-21",
+        "what": "December-March season and Monday-Saturday departures"
+      },
+      {
+        "url": "https://www.mountainmusher.com/booking",
+        "retrieved": "2026-11-21",
+        "what": "Mid-December aim, through March, and the reservation request"
+      }
+    ],
+    "partnerUrl": null
+  }
 ]

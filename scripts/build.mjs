@@ -161,7 +161,7 @@ const typeOptions = Object.entries(TYPE_LABELS).map(([k, v]) => `<option value="
 
 const homeBody = `
   <h1>Dog sledding tours and kennel rides in the United States</h1>
-  <p class="lede">A directory of operators in Alaska and the lower 48 whose own websites were live and selling tours when checked on 19–20 November 2026. Each listing records season, tour type, duration, published prices, and age or weight limits only when the operator stated them.</p>
+  <p class="lede">A directory of operators in Alaska and the lower 48 whose own websites were live and selling tours when checked on 19–21 November 2026. Each listing records season, tour type, duration, published prices, and age or weight limits only when the operator stated them.</p>
   <p class="note">${operators.length} operators across ${stateCodes.length} states. ${operators.filter((o) => o.priceMin != null || o.priceMax != null || (o.priceNote && /\d/.test(o.priceNote))).length} have a price on their site. Fields left blank were not published.</p>
   <h2>States</h2>
   <ul class="state-index">${homeStates}</ul>

@@ -2351,5 +2351,342 @@
       }
     ],
     "partnerUrl": null
+  },
+  {
+    "id": "turning-heads-kennel",
+    "name": "Turning Heads Kennel",
+    "state": "AK",
+    "town": "Seward",
+    "summary": "Turning Heads Kennel sells dog sled tours from the owners' home in Seward and a helicopter trip that lands on Godwin Glacier for a snow ride. The summer home visit includes the dog yard, puppies, and a short sled ride. The homepage also lists a winter tour that departs from Knik.",
+    "season": "The homepage lists Seward availability from late May through early September and from mid-May through early September, and a Knik tour from December 15 through March 31. The glacier page dates that trip from mid-May to early September.",
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": null,
+    "duration": "The Seward home visit is about 90 minutes, with about 20 minutes on the sled. The glacier trip is about 90 minutes, not counting a requested 15-minute early arrival: about 15 minutes by helicopter, about 25 minutes on the sled, and about an hour on the glacier.",
+    "priceMin": 89,
+    "priceMax": 599,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-22",
+    "priceNote": "Seward home visit: $89 per adult and $45 per child. Children under 2 are complimentary on an adult's lap. That page says the price excludes a 1.6% online booking fee, capped at $20 per reservation, and a 3% Kenai Peninsula Borough sales tax. Godwin Glacier: $599 per adult, or $749 for an adult with the comfort-seat charge at 250 lb and over, and $579 per child. Children under 2 are complimentary on a lap. No fare for the December 15\u2013March 31 Knik tour was on the pages read.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Both priced tours publish a child fare. Children under 2 ride at no charge on an adult's lap. A minimum age is not stated.",
+    "bookingUrl": "https://turningheadskennel.com/alaska-summer-dog-sledding/",
+    "website": "https://turningheadskennel.com/",
+    "sources": [
+      {
+        "url": "https://turningheadskennel.com/alaska-summer-dog-sledding/",
+        "retrieved": "2026-11-22",
+        "what": "Seward home-visit price, 90 minutes, 20-minute ride, child fare, and booking fee"
+      },
+      {
+        "url": "https://turningheadskennel.com/helicopter-glacier-dog-sledding-in-alaska/",
+        "retrieved": "2026-11-22",
+        "what": "Godwin Glacier price, helicopter and sled times, and the 250 lb comfort-seat charge"
+      },
+      {
+        "url": "https://turningheadskennel.com/",
+        "retrieved": "2026-11-22",
+        "what": "Seward and Knik season windows listed on the homepage"
+      },
+      {
+        "url": "https://turningheadskennel.com/dog-sledding-tours-in-alaska/",
+        "retrieved": "2026-11-22",
+        "what": "Glacier trip dated mid-May to early September"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "squid-acres-kennel",
+    "name": "Squid Acres Kennel",
+    "state": "AK",
+    "town": "Cantwell",
+    "summary": "Squid Acres Kennel, led by Paige Drobny and Cody Strathe, sells mushing trips from Cantwell on the Denali Highway and from Susitna Adventure Lodge near milepost 77. Summer guests meet the dogs and ride along on a five-passenger ATV. Winter options are a sled ride, an evening aurora ride, and a half-day school in which the guest drives a small team. Overnight stays at the lodge are also listed.",
+    "season": null,
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own",
+      "overnight",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "The winter ride is titled as two hours, with an optional extra hour presentation on the booking item. The homepage calls the aurora trip a four-hour tour; the booking item describes it as 3 hours. The half-day mushing school is 4 hours on the booking item. The Cantwell summer experience is 2 hours there. The Susitna day is a full day of 6 hours, and the Susitna overnight is 24 hours.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": "12 or older for the half-day mushing school. The summer experiences, the two-hour winter ride, and the aurora tour are labeled all ages.",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Several tours are labeled all ages. The half-day school, where the guest drives, is ages 12 or older.",
+    "bookingUrl": "https://squidacres.com/tours/",
+    "website": "https://squidacres.com/",
+    "sources": [
+      {
+        "url": "https://squidacres.com/tours/",
+        "retrieved": "2026-11-22",
+        "what": "Cantwell and Susitna trips, summer ATV ride, winter sled, aurora, mushing school, and overnight"
+      },
+      {
+        "url": "https://squidacres.com/",
+        "retrieved": "2026-11-22",
+        "what": "Homepage description of the aurora trip as four hours"
+      },
+      {
+        "url": "https://fareharbor.com/embeds/book/squidacres/items/?full-items=yes",
+        "retrieved": "2026-11-22",
+        "what": "Booking items linked from the site: durations and the ages 12 or all-ages labels. No dollar fare was in the item record."
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "sluice-box-sled-dogs",
+    "name": "Sluice Box Sled Dogs",
+    "state": "AK",
+    "town": "Fairbanks",
+    "summary": "Sluice Box Sled Dogs is a working kennel in the hills west of Fairbanks. The site sells a kennel visit, short sled rides on the homestead and through an aspen grove, a longer grove ride, and an evening that pairs sledding with the northern lights. A guided forest hike with huskies is listed as its own outing.",
+    "season": null,
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": null,
+    "duration": "Kennel visit about 1.5 hours. Homestead sled: about 20 minutes and 1.5 miles on the trail, about 1.5 hours start to finish. Aspen grove ridge: 30\u201340 minutes and 3 miles, about 2 hours total. Extended grove ride: 1 hour and 6 miles, about 2.5 hours total. Northern lights combo: 5\u20138 hours, timed to darkness and weather, with transportation from the Fairbanks area included.",
+    "priceMin": 50,
+    "priceMax": 350,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-22",
+    "priceNote": "Kennel visit: $50 for adults and for ages 12\u201318; children 12 and under free. Homestead sled: $75 for adults and for ages 12\u201318; children 12 and under free. Aspen grove ridge: $150 for adults and for ages 12\u201318; children 12 and under free. Extended grove ride: $200 for adults and for ages 12\u201318; children 12 and under free. Northern lights combo: $350 for adults over 18 and for ages 12\u201318, $250 for ages 6\u201312, and $150 for children under 6. The combo header also says ages 6+.",
+    "minAge": "Homestead sled ages 2+. Aspen grove ridge ages 6+. Extended grove ride ages 12+. Northern lights header says ages 6+, and the price table also lists children under 6. Kennel visit says all ages.",
+    "weightLimit": "300 pounds per adult on the homestead sled booking description. The northern-lights booking description asks guests over 300 pounds to make contact.",
+    "kidFriendly": true,
+    "kidNote": "Several sled and kennel pages price ages 12\u201318 at the adult rate and list children 12 and under as free, so age 12 appears in both lines. The kennel booking description says children under 2 are not taken into the dog yard. The northern-lights page prints fares for ages 6\u201312 and for children under 6.",
+    "bookingUrl": "https://sluiceboxsleddogs.com/tours/",
+    "website": "https://sluiceboxsleddogs.com/",
+    "sources": [
+      {
+        "url": "https://sluiceboxsleddogs.com/tours/sluice-box-kennel-experience/",
+        "retrieved": "2026-11-22",
+        "what": "Kennel visit length and $50 adult and youth fares"
+      },
+      {
+        "url": "https://sluiceboxsleddogs.com/tours/homestead-mini-mush-kennel-visit/",
+        "retrieved": "2026-11-22",
+        "what": "Homestead sled distance, time, ages 2+, and $75 fare"
+      },
+      {
+        "url": "https://sluiceboxsleddogs.com/tours/aspen-grove-ridge-top-tour/",
+        "retrieved": "2026-11-22",
+        "what": "Ridge ride distance, time, ages 6+, and $150 fare"
+      },
+      {
+        "url": "https://sluiceboxsleddogs.com/tours/sunset-aspen-grove-mush-extended-tour/",
+        "retrieved": "2026-11-22",
+        "what": "Extended grove ride distance, time, ages 12+, and $200 fare"
+      },
+      {
+        "url": "https://sluiceboxsleddogs.com/tours/dog-sledding-northern-lights-combo/",
+        "retrieved": "2026-11-22",
+        "what": "Combo length, Fairbanks-area transportation, and the $350, $250, and $150 fares"
+      },
+      {
+        "url": "https://fareharbor.com/embeds/book/sluiceboxsleddogs/?full-items=yes",
+        "retrieved": "2026-11-22",
+        "what": "Booking descriptions linked from the site, including the 300-pound notes and the under-2 dog-yard limit"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "mushers-camp",
+    "name": "Musher's Camp",
+    "state": "AK",
+    "town": "Juneau",
+    "summary": "AlaskaX sells Musher's Camp wheeled-sled rides in two Southeast ports. In Juneau the camp is on Douglas Island. In Skagway the camp is in Dyea, with a ride on a mountain trail after a drive from town. A musher steers. The visit also includes a musher talk and time with puppies.",
+    "season": "Early May through early October. The company says it does not run tours from November through April.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "Juneau sled discovery: 2 hours 15 minutes, on a wheeled sled that seats six, with the musher steering. Skagway sled adventure: 3 hours 15 minutes, including the ride to the Dyea camp and a mile-long wheeled-sled trail. An Ultimate Sled Dog Experience is listed at 4 hours and is sold only through Holland America and Princess.",
+    "priceMin": 199.99,
+    "priceMax": 280,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-22",
+    "priceNote": "The Juneau and Skagway sled tours are each listed from $199.99. The Ultimate Sled Dog Experience is listed from $280 and the page says it is available only through Holland America and Princess. A separate child dollar amount is not printed. Infants under 2 are lap children and do not need a paying ticket. A Musher's Camp gold-panning visit is listed from $169.99 and does not include the sled ride, so it is outside this range.",
+    "minAge": "No minimum age is stated. Infants under 2 ride free on a lap. The FAQ calls ages 2\u201312 a child ticket and ages 13 and older an adult ticket.",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Infants under 2 ride on a lap at no charge. Child and adult ticket ages are defined, without a printed child fare.",
+    "bookingUrl": "https://www.alaskax.com/Home/Tours?tourId=5",
+    "website": "https://www.alaskax.com/",
+    "sources": [
+      {
+        "url": "https://www.alaskax.com/Home/Tours?tourId=5",
+        "retrieved": "2026-11-22",
+        "what": "Juneau Douglas Island sled tour, from $199.99, 2 hours 15 minutes, musher steers"
+      },
+      {
+        "url": "https://www.alaskax.com/Home/Tours?tourId=6",
+        "retrieved": "2026-11-22",
+        "what": "Skagway Dyea sled tour, from $199.99, 3 hours 15 minutes"
+      },
+      {
+        "url": "https://www.alaskax.com/Home/Tours?tourId=15",
+        "retrieved": "2026-11-22",
+        "what": "Ultimate sled experience from $280, cruise-line only, 4 hours"
+      },
+      {
+        "url": "https://www.alaskax.com/TravelTips/FAQ",
+        "retrieved": "2026-11-22",
+        "what": "Early May through early October, lap infants under 2, and child and adult ticket ages"
+      },
+      {
+        "url": "https://www.alaskax.com/Home/Tours?tourId=10",
+        "retrieved": "2026-11-22",
+        "what": "Gold-panning camp visit from $169.99, without the sled ride"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "alaska-helicopter-tours",
+    "name": "Alaska Helicopter Tours",
+    "state": "AK",
+    "town": "Palmer",
+    "summary": "Alaska Helicopter Tours sells glacier dog sledding that flies from Alaska Glacier Lodge in Palmer, on the Knik River, and from Seward. The dogsled pages tell guests they will drive a team on the snow after meeting the dogs and the mushers. Knik trips can add a second landing on the glacier. Seward trips fly toward the Harding Icefield and can add a Kenai Fjords landing.",
+    "season": "Knik trips from Alaska Glacier Lodge: May 1\u2013August 31. Seward trips: May 15\u2013August 31.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": "The Knik dogsled card lists 1 hour 30 minutes and about 25 minutes. The Knik card with an added glacier landing lists 2 hours and about 30 minutes. The Seward cards use those same two time pairs. The page also says guests spend one full hour with the dogs. Helicopters named on the page are Robinson R44s with 3 passenger seats.",
+    "priceMin": 749,
+    "priceMax": 849,
+    "priceBasis": "unspecified",
+    "priceAsOf": "2026-11-22",
+    "priceNote": "The dogsled cards read from $749 for the Knik ride and for the Seward ride, and from $849 when either ride adds another landing. The page does not say whether those figures are per person or per sled. Passengers at 250 lb and over pay a $150 comfort surcharge for an extra seat. Passengers at 290 lb and over are asked to call about aircraft availability.",
+    "minAge": "All ages, as printed on each dogsled card",
+    "weightLimit": "565 lb limit stated for a Robinson R44 with 3 passengers. A $150 comfort surcharge applies at 250 lb and over.",
+    "kidFriendly": true,
+    "kidNote": "Each dogsled card says all ages. A separate child fare is not printed on the page.",
+    "bookingUrl": "https://www.alaskahelicoptertours.com/glacier-dogsledding/",
+    "website": "https://www.alaskahelicoptertours.com/",
+    "sources": [
+      {
+        "url": "https://www.alaskahelicoptertours.com/glacier-dogsledding/",
+        "retrieved": "2026-11-22",
+        "what": "Knik and Seward dogsled cards, from-prices, dates, drive-your-own wording, and weight surcharge"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "triple-creek-ranch",
+    "name": "Triple Creek Ranch",
+    "state": "MT",
+    "town": "Darby",
+    "summary": "Triple Creek Ranch in Darby sells dogsledding as an activity added to a guest's invoice. Guides and teams meet guests a short drive from the ranch. Guests can sit in the sled or stand on the runners with the musher. The page says some guests also try driving a team beside the guides.",
+    "season": "Offered when a minimum snowfall is met. No calendar dates are printed.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": null,
+    "duration": "About 2 hours, three times a day.",
+    "priceMin": 450,
+    "priceMax": 775,
+    "priceBasis": "per-sled",
+    "priceAsOf": "2026-11-22",
+    "priceNote": "Added to the guest invoice: $450 per sled for one person, or $775 per sled for two people. A guest cancellation inside 24 hours is charged the full price. The page says activities, times, and prices can change.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://www.triplecreekranch.com/experiences/dog-sledding/",
+    "website": "https://www.triplecreekranch.com/",
+    "sources": [
+      {
+        "url": "https://www.triplecreekranch.com/experiences/dog-sledding/",
+        "retrieved": "2026-11-22",
+        "what": "Darby guest activity, about 2 hours, per-sled fees, and the optional driving try"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "north-forty-escapes",
+    "name": "North Forty Escapes",
+    "state": "UT",
+    "town": "Oakley",
+    "summary": "North Forty Escapes runs dog sled teams on a private ranch in Oakley, in the mountains outside Park City. The sled page sells a one-hour split ride, described as two turns of about 30 minutes, and says the operation can run up to four teams at once.",
+    "season": "Listed as a winter activity. The sled page does not print opening or closing dates.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": null,
+    "duration": "1 hour, described as two rides of 30 minutes each.",
+    "priceMin": 524,
+    "priceMax": 524,
+    "priceBasis": "per-sled",
+    "priceAsOf": "2026-11-22",
+    "priceNote": "The sled page prices the customer type Sled at $524 and the customer type Sled with Pick-up at $524. The pick-up line adds transportation at $20 per person. A separate per-person sled fare is not printed. Capacity lines on that page say a maximum of 5 people per sled if there are multiple children, 3 people per sled per half hour, at least one child under 8 when three people are in the sled, a maximum of two adults and one small child, and 350 pounds.",
+    "minAge": "3 years",
+    "weightLimit": "350 pounds, as printed with the sled-capacity notes",
+    "kidFriendly": true,
+    "kidNote": "The page says ages 3 and up, and it also prints the sled-capacity rules for children and adults quoted in the price note.",
+    "bookingUrl": "https://northfortyescapes.com/winter-activities/split-dog-sledding-in-park-city/",
+    "website": "https://northfortyescapes.com/",
+    "sources": [
+      {
+        "url": "https://northfortyescapes.com/winter-activities/split-dog-sledding-in-park-city/",
+        "retrieved": "2026-11-22",
+        "what": "Oakley split ride, $524 sled options, $20 per person transportation, ages, and weight"
+      },
+      {
+        "url": "https://northfortyescapes.com/about-us/",
+        "retrieved": "2026-11-22",
+        "what": "Private ranch trails and up to four dog teams"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "stoweflake-mountain-resort",
+    "name": "Stoweflake Mountain Resort",
+    "state": "VT",
+    "town": "Stowe",
+    "summary": "Stoweflake Mountain Resort in Stowe sells evening dog sled rides on winter Saturdays. A musher drives. Guests meet the huskies and then ride a sled, or a rolling sled if there is not enough snow. No fare is printed on the page.",
+    "season": "Winter Saturdays, with the evening window described as typically about 4:40 pm to 8:00 pm. Christmas week, MLK week, and Presidents' week add departures.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "About 30 minutes for the visit, with roughly 15 minutes on the sled. Each sled carries up to 3 people.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": "2 years",
+    "weightLimit": "350 lb combined, up to 3 people per sled",
+    "kidFriendly": true,
+    "kidNote": "Minimum age is 2. Minors must be with an adult.",
+    "bookingUrl": "https://stoweflake.com/stowe-evening-dog-sled-rides/",
+    "website": "https://stoweflake.com/",
+    "sources": [
+      {
+        "url": "https://stoweflake.com/stowe-evening-dog-sled-rides/",
+        "retrieved": "2026-11-22",
+        "what": "Stowe Saturday evening rides, musher drives, 15-minute ride, age 2, and 350 lb sled limit. No fare printed."
+      }
+    ],
+    "partnerUrl": null
   }
 ]

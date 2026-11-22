@@ -1321,23 +1321,23 @@
     "name": "Umiak Outdoor Outfitters",
     "state": "VT",
     "town": "Stowe",
-    "summary": "Umiak Outdoor Outfitters in Stowe lists a one-hour sled-dog meet-and-greet and a 30-minute evening sled ride at Stoweflake Mountain Resort. The meet-and-greet is priced per person. The evening ride is priced per sled.",
+    "summary": "Umiak Outdoor Outfitters in Stowe lists a one-hour sled-dog meet-and-greet and a 30-minute evening sled ride at Stoweflake Mountain Resort. The evening-ride page credits Huskies in the Kingdom for that ride, and a musher drives. The meet-and-greet is priced per person. The evening ride is priced per sled.",
     "season": "The tours page does not print season months.",
     "tourTypes": [
       "kennel-tour",
       "ride-along"
     ],
     "driveYourOwn": false,
-    "duration": "Meet-and-greet 1 hour. Evening ride 30 minutes.",
+    "duration": "Meet-and-greet 1 hour. Evening program 30 minutes, with about 15 minutes on the sled.",
     "priceMin": 29,
     "priceMax": 39,
     "priceBasis": "mixed",
     "priceAsOf": "2026-11-19",
     "priceNote": "Meet-and-greet $29\u2013$39 per person. Evening dog sled rides $198\u2013$338 per sled. The band uses the per-person meet-and-greet.",
-    "minAge": null,
-    "weightLimit": null,
+    "minAge": "2 years on the evening ride; the meet-and-greet page does not state one",
+    "weightLimit": "350 lb combined on the evening ride, up to 3 people per sled",
     "kidFriendly": true,
-    "kidNote": "The meet-and-greet is described as fun and educational for families. A numeric age limit is not stated.",
+    "kidNote": "The evening ride page states a minimum age of 2, and minors must be with an adult. The tours page used for the meet-and-greet does not state a numeric age.",
     "bookingUrl": "https://www.umiak.com/dog-sled-tours",
     "website": "https://www.umiak.com/dog-sled-tours",
     "sources": [
@@ -1345,6 +1345,11 @@
         "url": "https://www.umiak.com/dog-sled-tours",
         "retrieved": "2026-11-19",
         "what": "Stowe meet-and-greet and evening sled prices"
+      },
+      {
+        "url": "https://www.umiak.com/activity/evening-dog-sled-rides",
+        "retrieved": "2026-11-22",
+        "what": "Evening ride at Stoweflake, Huskies in the Kingdom credit, 15-minute sled time, age 2, and 350 lb sled limit"
       }
     ],
     "partnerUrl": null
@@ -2081,7 +2086,7 @@
     "name": "Alaska Icefield Expeditions",
     "state": "AK",
     "town": "Juneau",
-    "summary": "Alaska Icefield Expeditions runs a summer helicopter dogsled trip from Juneau to a camp on Herbert Glacier. A musher drives the lead sled, and a guest can stand on the runners of a tag sled. The company's Skagway page describes a glacier dog visit that does not include a sled ride.",
+    "summary": "Alaska Icefield Expeditions runs a summer helicopter dogsled trip from Juneau to a camp on Herbert Glacier. A musher drives the lead sled, and a guest can stand on the runners of a tag sled. The company's Skagway page describes a glacier dog visit that does not include a sled ride. Its Juneau FAQ names Gold Rush Dog Tours as a sister company for a separate dryland cart visit in Sheep Creek, not this glacier ride.",
     "season": "Juneau dogsled rides: middle of May through late August. The Skagway page, which says guests do not ride a sled, lists May through September.",
     "tourTypes": [
       "ride-along",
@@ -2104,8 +2109,8 @@
     "sources": [
       {
         "url": "https://alaskaicefieldexpeditions.com/juneau-glacier-dog-sledding-helicopter-flightseeing-tours/",
-        "retrieved": "2026-11-21",
-        "what": "Herbert Glacier ride, tag-sled driving, season, duration, and the $150 surcharge"
+        "retrieved": "2026-11-22",
+        "what": "Herbert Glacier ride, tag-sled driving, season, duration, the $150 surcharge, and the sister-company cart visit at Gold Rush Dog Tours"
       },
       {
         "url": "https://alaskaicefieldexpeditions.com/skagway-glacier-dog-sledding-helicopter-flightseeing-tours/",
@@ -2120,7 +2125,7 @@
     "name": "Gold Rush Dog Tours",
     "state": "AK",
     "town": "Juneau",
-    "summary": "Gold Rush Dog Tours sells a summer cart ride in the Sheep Creek valley near Juneau. A musher and handler drive a cart pulled by 10 to 12 dogs, with up to eight guests aboard. The camp visit is about an hour, including about 20 minutes of riding, and the operator asks guests to allow 2 hours and 15 minutes with the drive from downtown.",
+    "summary": "Gold Rush Dog Tours sells a summer cart ride in the Sheep Creek valley near Juneau. A musher and handler drive a cart pulled by 10 to 12 dogs, with up to eight guests aboard. The camp visit is about an hour, including about 20 minutes of riding, and the operator asks guests to allow 2 hours and 15 minutes with the drive from downtown. Alaska Icefield Expeditions calls this its sister company and the alternative to its Herbert Glacier helicopter sled, which is a different tour.",
     "season": "May through September.",
     "tourTypes": [
       "ride-along"
@@ -2148,6 +2153,11 @@
         "url": "https://www.goldrushdogs.com/frequently-asked-questions/",
         "retrieved": "2026-11-21",
         "what": "May-September season, musher drives, 10-12 dogs, and the 2-hour-15-minute allowance"
+      },
+      {
+        "url": "https://alaskaicefieldexpeditions.com/juneau-glacier-dog-sledding-helicopter-flightseeing-tours/",
+        "retrieved": "2026-11-22",
+        "what": "Names Gold Rush Dog Tours as the sister company for a Sheep Creek cart visit, separate from the Herbert Glacier helicopter ride"
       }
     ],
     "partnerUrl": null
@@ -2616,75 +2626,6 @@
         "url": "https://www.triplecreekranch.com/experiences/dog-sledding/",
         "retrieved": "2026-11-22",
         "what": "Darby guest activity, about 2 hours, per-sled fees, and the optional driving try"
-      }
-    ],
-    "partnerUrl": null
-  },
-  {
-    "id": "north-forty-escapes",
-    "name": "North Forty Escapes",
-    "state": "UT",
-    "town": "Oakley",
-    "summary": "North Forty Escapes runs dog sled teams on a private ranch in Oakley, in the mountains outside Park City. The sled page sells a one-hour split ride, described as two turns of about 30 minutes, and says the operation can run up to four teams at once.",
-    "season": "Listed as a winter activity. The sled page does not print opening or closing dates.",
-    "tourTypes": [
-      "ride-along"
-    ],
-    "driveYourOwn": null,
-    "duration": "1 hour, described as two rides of 30 minutes each.",
-    "priceMin": 524,
-    "priceMax": 524,
-    "priceBasis": "per-sled",
-    "priceAsOf": "2026-11-22",
-    "priceNote": "The sled page prices the customer type Sled at $524 and the customer type Sled with Pick-up at $524. The pick-up line adds transportation at $20 per person. A separate per-person sled fare is not printed. Capacity lines on that page say a maximum of 5 people per sled if there are multiple children, 3 people per sled per half hour, at least one child under 8 when three people are in the sled, a maximum of two adults and one small child, and 350 pounds.",
-    "minAge": "3 years",
-    "weightLimit": "350 pounds, as printed with the sled-capacity notes",
-    "kidFriendly": true,
-    "kidNote": "The page says ages 3 and up, and it also prints the sled-capacity rules for children and adults quoted in the price note.",
-    "bookingUrl": "https://northfortyescapes.com/winter-activities/split-dog-sledding-in-park-city/",
-    "website": "https://northfortyescapes.com/",
-    "sources": [
-      {
-        "url": "https://northfortyescapes.com/winter-activities/split-dog-sledding-in-park-city/",
-        "retrieved": "2026-11-22",
-        "what": "Oakley split ride, $524 sled options, $20 per person transportation, ages, and weight"
-      },
-      {
-        "url": "https://northfortyescapes.com/about-us/",
-        "retrieved": "2026-11-22",
-        "what": "Private ranch trails and up to four dog teams"
-      }
-    ],
-    "partnerUrl": null
-  },
-  {
-    "id": "stoweflake-mountain-resort",
-    "name": "Stoweflake Mountain Resort",
-    "state": "VT",
-    "town": "Stowe",
-    "summary": "Stoweflake Mountain Resort in Stowe sells evening dog sled rides on winter Saturdays. A musher drives. Guests meet the huskies and then ride a sled, or a rolling sled if there is not enough snow. No fare is printed on the page.",
-    "season": "Winter Saturdays, with the evening window described as typically about 4:40 pm to 8:00 pm. Christmas week, MLK week, and Presidents' week add departures.",
-    "tourTypes": [
-      "ride-along"
-    ],
-    "driveYourOwn": false,
-    "duration": "About 30 minutes for the visit, with roughly 15 minutes on the sled. Each sled carries up to 3 people.",
-    "priceMin": null,
-    "priceMax": null,
-    "priceBasis": null,
-    "priceAsOf": null,
-    "priceNote": null,
-    "minAge": "2 years",
-    "weightLimit": "350 lb combined, up to 3 people per sled",
-    "kidFriendly": true,
-    "kidNote": "Minimum age is 2. Minors must be with an adult.",
-    "bookingUrl": "https://stoweflake.com/stowe-evening-dog-sled-rides/",
-    "website": "https://stoweflake.com/",
-    "sources": [
-      {
-        "url": "https://stoweflake.com/stowe-evening-dog-sled-rides/",
-        "retrieved": "2026-11-22",
-        "what": "Stowe Saturday evening rides, musher drives, 15-minute ride, age 2, and 350 lb sled limit. No fare printed."
       }
     ],
     "partnerUrl": null

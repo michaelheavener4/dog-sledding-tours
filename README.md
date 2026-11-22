@@ -48,13 +48,13 @@ Checked 19–22 November 2026. “With a published price” means the operator�
 | New Hampshire | 1 | 1 | Operator websites, read 2026-11-19 |
 | New York | 1 | 1 | Operator websites, read 2026-11-19 |
 | Oregon | 1 | 1 | Operator websites, read 2026-11-19 |
-| Utah | 3 | 3 | Operator websites, read 2026-11-19 and 2026-11-22 |
-| Vermont | 4 | 2 | Operator websites, read 2026-11-19 and 2026-11-22 |
+| Utah | 2 | 2 | Operator websites, read 2026-11-19 and 2026-11-22 |
+| Vermont | 3 | 2 | Operator websites, read 2026-11-19 and 2026-11-22 |
 | Wisconsin | 1 | 0 | Operator websites, read 2026-11-19 |
 | Wyoming | 4 | 2 | Operator websites, read 2026-11-19, 2026-11-20, and 2026-11-21 |
-| **Total** | **74** | **59** | |
+| **Total** | **72** | **58** | |
 
-Operators with no dollar figure on the pages read: Alaska Sled Dog Tours (Talkeetna), Arctic Dog Adventure Co., Last Frontier Mushing Co-op, Squid Acres Kennel, Alpine Adventures Dogsledding, San Juan Sled Dogs, Idarado Sled Dog Adventures, October Siberians, Stoweflake Mountain Resort, Wolfsong Adventures in Mushing, Heart Six Guest Ranch, Gold Rush Dog Tours, Team Zappa, Jackson Hole Iditarod Sled Dog Tours, and Mountain Musher. Alaska Icefield Expeditions prints a $150 weight surcharge and not the tour fare. Dream a Dream Sled Dog Tours prints $1,049 for the musher school and no fare for the 2–2.5 hour visit.
+Operators with no dollar figure on the pages read: Alaska Sled Dog Tours (Talkeetna), Arctic Dog Adventure Co., Last Frontier Mushing Co-op, Squid Acres Kennel, Alpine Adventures Dogsledding, San Juan Sled Dogs, Idarado Sled Dog Adventures, October Siberians, Wolfsong Adventures in Mushing, Heart Six Guest Ranch, Gold Rush Dog Tours, Team Zappa, Jackson Hole Iditarod Sled Dog Tours, and Mountain Musher. Alaska Icefield Expeditions prints a $150 weight surcharge and not the tour fare. Dream a Dream Sled Dog Tours prints $1,049 for the musher school and no fare for the 2–2.5 hour visit.
 
 ## Not included in this pass
 
@@ -71,6 +71,7 @@ Operators with no dollar figure on the pages read: Alaska Sled Dog Tours (Talkee
 - Checked 20 November 2026 and not added: `northwestdogsledadventuresllc.com`, `tahoedogsledtours.com`, and `mammothdogteams.com` did not resolve. `huskypowerdogsledding.com` is not a kennel site. `prairieisledogtrekking.com` is a domain-for-sale page. Tetons and Beyond’s ride page says public locations and reservations are still coming. Arctic Paws Dog Sled Tours states that the 2025–26 season is closed and does not list a later season for sale. `jhsleddog.com` returned an error page that day; it loaded on 21 November 2026 and Jackson Hole Iditarod Sled Dog Tours was added.
 - Checked 21 November 2026 and not added: Spirit of the North (`huskypower.com`) still describes Big Sky and West Yellowstone trips, but the only printed fares sit on a Christmas page that cites 2019 and 2020 race results. Gunflint Lodge’s dog-mushing package is marked TBD, with the dollar amounts blank, and dog sledding is not in the current winter activities menu. Wintermoon Summersun’s current site says the homestead burned in May 2025 and the operation is rebuilding. Sno-Trek’s adventure page is still labeled Winter 2022–2023. `barking-brook.com` no longer shows the kennel. Togwotee Mountain Lodge’s dog-sled page is a booking front for Continental Divide Dog Sled Adventures, which is already listed.
 - Checked 22 November 2026 and not added: Top of the Hill Huskies still prices the 2025/2026 season that closed on 15 March 2026, and the booking note still says to check back in November 2025. Alyeska Tours still says Girdwood reservations are for the 2025 season (1 June–31 August). Treetops Resort’s `/activities/dog-sledding/` path returned 404. Silver Creek Sled Dogs in Two Harbors appears on tourism pages only; no operator site was found. GoNorth Alaska’s Fairbanks dog-sled page is a quote form with booking codes, not the kennel’s own site. Bearskin Lodge’s mushing page says the trips belong to Sawtooth Racing and the listed dates do not name a year. Devil’s Thumb Ranch offers skijoring with a guest’s own dog, not a sled-dog tour.
+- Same tour, so not a second listing: North Forty Escapes, at 1 Stillman Ranch Road in Oakley, sells the Stillman Ranch sled already listed under Wasatch Adventure Guides. Its pages show a one-hour ride from $424 and a split ride at $524, with ages 3+ and a 350-pound sled limit, the same product as the Wasatch page. Stoweflake Mountain Resort’s evening-ride page sends its online calendar to Umiak Outdoor Outfitters’ evening dog sled ride at the resort. Each listing has one `bookingUrl`. `partnerUrl` is only for that operator’s own Viator or GetYourGuide link, so those resort and ranch URLs were not stored as extra booking links.
 
 ## GitHub Pages
 

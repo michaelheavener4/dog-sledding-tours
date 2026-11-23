@@ -2629,5 +2629,243 @@
       }
     ],
     "partnerUrl": null
+  },
+{
+    "id": "trail-breaker-kennel",
+    "name": "Trail Breaker Kennel",
+    "state": "AK",
+    "town": "Fairbanks",
+    "summary": "Trail Breaker Kennel, founded by Susan Butcher, sells winter sled rides from a yard about a mile from the Fairbanks airport. A musher drives. On each sled one guest sits and one stands, and they can switch during the ride. The kennel does not run a shuttle.",
+    "season": "2-mile sampler November\u2013March. 4-mile ride January\u2013March.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "Sampler 30 minutes on a 2-mile trail. The longer ride is 1 hour and about 4 miles.",
+    "priceMin": 94,
+    "priceMax": 188,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-23",
+    "priceNote": "Sampler $94\u2013$104 per person. The 4-mile ride is $188 per person for guests 10 and older. Tours cancel at \u221225\u00b0F. The sampler page sets a \u221220\u00b0F cutoff for children under 10.",
+    "minAge": "4 years on the sampler; 10 years on the 4-mile ride",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Children ages 4\u20139 are directed to the 2-mile ride. On the sampler, ages 4\u201310 must be with an adult who is also riding.",
+    "bookingUrl": "https://trailbreakerkennel.com/winter-tours/30-minute-dog-sled-ride/",
+    "website": "https://trailbreakerkennel.com/",
+    "sources": [
+      {
+        "url": "https://trailbreakerkennel.com/winter-tours/30-minute-dog-sled-ride/",
+        "retrieved": "2026-11-23",
+        "what": "Sampler price $94\u2013$104, 30 minutes, November\u2013March, ages 4+, and the \u221220\u00b0F child cutoff"
+      },
+      {
+        "url": "https://trailbreakerkennel.com/winter-tours/dog-sled-ride/",
+        "retrieved": "2026-11-23",
+        "what": "4-mile ride $188, 1 hour, January\u2013March, ages 10+, with younger children sent to the 2-mile ride"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "bill-cotter-kennel",
+    "name": "Bill Cotter Kennel",
+    "state": "AK",
+    "town": "Nenana",
+    "summary": "Bill Cotter Kennel runs sled rides from a homestead on 4 Mile Road in Nenana, about 50 miles south of Fairbanks, on trails the kennel says it helps keep up for local Iditarod training. The 1-hour ride offers a turn standing on the sled or a tag sled and driving the team. A fall cart ride adds a kennel visit before the dogs switch to sleds.",
+    "season": "Cart rides September 1\u2013November 1. Sled rides when there is enough snow. The sled pages do not print a winter start or end date.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own",
+      "kennel-tour"
+    ],
+    "driveYourOwn": true,
+    "duration": "40-minute ride is 40 minutes on the sled. The 1-hour ride is a 2-hour visit with about an hour on the sled. The 2-hour tour is a 3-hour visit with up to two hours on the sled. Cart ride about 25\u201330 minutes.",
+    "priceMin": 149,
+    "priceMax": 350,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-23",
+    "priceNote": "40-minute ride $149 per person for ages 3 and up, with a two-person minimum; a single booking is $250. 1-hour ride $189 for ages 13 and up, $169 for ages 12 and under, and $330 for a single booking. 2-hour tour $350 for ages 15 and up. The fall cart card prints $95 and a capacity of up to 10 people, and it does not say that $95 is per person. The 1-hour page says a 10% military discount and a discount for ages 12 and under can be selected at checkout. The 2-hour page says a 10% military discount.",
+    "minAge": "3 years on the 40-minute ride; the 1-hour page says all ages; 15 years on the 2-hour tour",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The 40-minute booking needs at least two people. The 1-hour ride prints a separate rate for ages 12 and under.",
+    "bookingUrl": "https://billcotterkennel.com/experiences/",
+    "website": "https://billcotterkennel.com/",
+    "sources": [
+      {
+        "url": "https://billcotterkennel.com/experiences/40-minute-dog-sledding/",
+        "retrieved": "2026-11-23",
+        "what": "$149 and $250 single rates, ages 3+, 40 minutes, two-person minimum, Nenana address"
+      },
+      {
+        "url": "https://billcotterkennel.com/experiences/1-hour-dog-sledding/",
+        "retrieved": "2026-11-23",
+        "what": "$189, $169, and $330 rates, and the chance to drive from the sled or a tag sled"
+      },
+      {
+        "url": "https://billcotterkennel.com/experiences/2-hour-dog-sledding/",
+        "retrieved": "2026-11-23",
+        "what": "$350 for ages 15 and up, up to two hours on the sled"
+      },
+      {
+        "url": "https://billcotterkennel.com/experiences/fall-sled-dog-cart-ride-mushing-on-wheels/",
+        "retrieved": "2026-11-23",
+        "what": "$95 cart card, September 1\u2013November 1, kennel visit, and the switch to sleds after enough snow"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "the-mushing-mutts",
+    "name": "The Mushing Mutts",
+    "state": "CO",
+    "town": "Ohio City",
+    "summary": "The Mushing Mutts is a family racing and touring kennel in Ohio City, near Gunnison. It sells 1-hour and 2-hour sled rides on the Gunnison National Forest under a Forest Service permit. A learn-to-mush class is listed with a base price, and the page says that price can change for a custom visit.",
+    "season": null,
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": "1-hour and 2-hour adventures.",
+    "priceMin": 200,
+    "priceMax": 800,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-23",
+    "priceNote": "1-hour: $200 ages 18 and over, $175 ages 5\u201317, $75 ages 3\u20134, $175 veteran or active duty, $175 age 65 and over. 2-hour: $425 ages 18 and over, $300 ages 5\u201317, $75 ages 3\u20134, $300 veteran or active duty, $300 age 65 and over. The infant line prints $0 and says no one under 2 can go. Learn-to-mush prints a base price of $800 and says prices vary.",
+    "minAge": "No one under 2; toddler rate is ages 3\u20134",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Youth rate is ages 5\u201317. Children under 2 are not taken.",
+    "bookingUrl": "https://themushingmutts.com/",
+    "website": "https://themushingmutts.com/",
+    "sources": [
+      {
+        "url": "https://themushingmutts.com/",
+        "retrieved": "2026-11-23",
+        "what": "Ohio City rides, 1-hour and 2-hour fares, $800 learn-to-mush base price, and the Forest Service permit line"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "redemption-dog-sled-tours",
+    "name": "Redemption Dog Sled Tours",
+    "state": "CO",
+    "town": "Granby",
+    "summary": "Redemption Dog Sled Tours sells musher-driven sled rides that meet in the library parking lot at YMCA of the Rockies, Snow Mountain Ranch, in Granby. Guests can book a 2-mile or 4-mile loop, three moonlight dates, a fall ride on a wheeled rig, or a learn-to-mush course in which the guest drives. The ranch is the meeting place; the tours are this kennel\u2019s.",
+    "season": "Winter rides December 20, 2026\u2013March 29, 2027, Fridays\u2013Mondays, 8:00 a.m.\u20132:00 p.m. Moonlight Mush on January 22, February 20, and March 21, 2027. Autumn dryland rides September\u2013December.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": "The 2-mile booking card says 1 hour, with about 15\u201320 minutes on the sled. The 4-mile page does not print a time. Autumn sessions are sold by the hour, and riders can switch at 30 minutes.",
+    "priceMin": 110,
+    "priceMax": 190,
+    "priceBasis": "per-sled",
+    "priceAsOf": "2026-11-23",
+    "priceNote": "The 2-mile booking card shows from $110, and the same page\u2019s offer data lists a high of $190. The ride pages say a sled is sold for a single rider or for an adult plus a small child. The 4-mile, autumn, and learn-to-mush pages do not print a dollar amount. Autumn rides are sold per hour.",
+    "minAge": "4 years on the 2-mile booking page; the 4-mile page asks that children under 5 not register",
+    "weightLimit": "250 pounds per rider",
+    "kidFriendly": true,
+    "kidNote": "On the 2-mile booking page, children ages 4\u201312, or a guest under 120 pounds, sit in front, and the standing spot is ages 13 and up. On the 4-mile page the front seat is ages 5\u201311 or under 110 pounds, and the standing spot is ages 11 and up. Children under 18 must be with an adult on the premises.",
+    "bookingUrl": "https://www.redemptionsledtours.com/service-page/dog-sled-ride-2-miles",
+    "website": "https://www.redemptionsledtours.com/",
+    "sources": [
+      {
+        "url": "https://www.redemptionsledtours.com/",
+        "retrieved": "2026-11-23",
+        "what": "Winter 2026\u201327 dates, moonlight dates, and the learn-to-mush course"
+      },
+      {
+        "url": "https://www.redemptionsledtours.com/service-page/dog-sled-ride-2-miles",
+        "retrieved": "2026-11-23",
+        "what": "From $110 to $190 on the 2-mile card, 15\u201320 minute ride, ages, 250 lb limit, and the Snow Mountain Ranch meeting point"
+      },
+      {
+        "url": "https://www.redemptionsledtours.com/4-mile-dog-sled-ride",
+        "retrieved": "2026-11-23",
+        "what": "4-mile loop sold per sled, under-5 request, and the 11+ standing spot"
+      },
+      {
+        "url": "https://www.redemptionsledtours.com/autumn-dryland-mushing",
+        "retrieved": "2026-11-23",
+        "what": "September\u2013December wheeled rides, sold per hour, no dollar amount"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "sawtooth-racing",
+    "name": "Sawtooth Racing",
+    "state": "MN",
+    "town": "Grand Marais",
+    "summary": "Sawtooth Racing, the kennel Matt and Erin have run since 2011, supplies the teams for the dog sled rides Border Lakes Tour Company sells in the Superior National Forest near Grand Marais. A guide drives the sled. Guests can help harness, then ride, and they meet the dogs at the start and again after the trail.",
+    "season": "December\u2013March.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "About 2 hours at the kennel, with about 45 minutes on the trail.",
+    "priceMin": 215,
+    "priceMax": null,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-23",
+    "priceNote": "Starting at $215 per adult. The page says student and child prices exist and does not print those amounts.",
+    "minAge": "Children 8 and younger must ride in the sled with an adult",
+    "weightLimit": "About 275 pounds total for one adult, or one adult and one child, per sled",
+    "kidFriendly": true,
+    "kidNote": "A sled holds one adult, or one adult and one child. Each departure can run up to three sleds. Children 8 and younger ride with an adult.",
+    "bookingUrl": "https://www.borderlakestourcompany.com/dogsledding",
+    "website": "https://www.borderlakestourcompany.com/dogsledding",
+    "sources": [
+      {
+        "url": "https://www.borderlakestourcompany.com/dogsledding",
+        "retrieved": "2026-11-23",
+        "what": "December\u2013March season, from $215 per adult, 45-minute ride, Grand Marais kennel, and the Sawtooth Racing partnership"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "happy-trails-kennel",
+    "name": "Happy Trails Kennel",
+    "state": "AK",
+    "town": "Big Lake",
+    "summary": "Happy Trails Kennel in Big Lake is Martin Buser\u2019s racing yard. Guided visits include a film, a trail talk, a short demonstration of a team pulling an ATV, and time with puppies. The same site says winter dog sled rides and learn-to-mush sessions run from mid-November to mid-April when the weather allows. The pages do not print a fare.",
+    "season": "Winter dog sled rides or learn-to-mush, mid-November to mid-April, depending on the weather. Summer kennel tours at 2:00 p.m. on Tuesdays, Thursdays, Fridays, and Saturdays.",
+    "tourTypes": [
+      "kennel-tour",
+      "ride-along",
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": "The demonstration is a short loop. A winter ride length is not printed.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://buserdog.com/visit",
+    "website": "https://buserdog.com/",
+    "sources": [
+      {
+        "url": "https://buserdog.com/",
+        "retrieved": "2026-11-23",
+        "what": "Invitation to book winter sled rides and holiday groups"
+      },
+      {
+        "url": "https://buserdog.com/visit",
+        "retrieved": "2026-11-23",
+        "what": "Big Lake kennel visit, ATV demonstration, summer 2:00 p.m. tour days, and the mid-November to mid-April winter window"
+      }
+    ],
+    "partnerUrl": null
   }
 ]

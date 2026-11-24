@@ -2867,5 +2867,226 @@
       }
     ],
     "partnerUrl": null
+  },
+  {
+    "id": "rods-alaskan-guide-service",
+    "name": "Rod's Alaskan Guide Service",
+    "state": "AK",
+    "town": "North Pole",
+    "summary": "Rod's Alaskan Guide Service sells guided dog sled rides from 3355 Repp Road in North Pole. A musher leads the tour. The 30-minute trip is a seated ride. On the 1-hour ride and the 2-hour musher adventure, a guest can step onto the runners and drive. Winter clothing is included.",
+    "season": "November through early April, Thursday through Tuesday. Closed Wednesdays and major holidays. A note on the page dated 12 November 2026 says the 30-minute and 1-hour rides are on sleds, and that more snow is needed before the 2-hour trails open.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": "30-minute ride. 1-hour experience. 2-hour musher adventure. The aurora tour is 4 hours, 10:00 p.m. to 2:00 a.m., and needs at least two people.",
+    "priceMin": 99,
+    "priceMax": 550,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-24",
+    "priceNote": "30-minute ride $99 for adults and $90 for ages 13 and under. 1-hour experience $195. 2-hour musher adventure $375. Aurora dog sledding $550. Every dog sled tour needs at least two tickets and at least 30 minutes. A guest over 250 pounds must book two tickets. Round-trip transportation from Fairbanks lodging is $50 per person and is separate from the tour fare. The page also sells snowmobile and ice-fishing combinations; those package prices are not sled-only fares. The page says a 10 percent military discount is available.",
+    "minAge": "5 years at -10 F and warmer. Ages 3 and 4 only above 10 F. Under 3 not permitted.",
+    "weightLimit": "Guests over 250 pounds must book two tickets",
+    "kidFriendly": true,
+    "kidNote": "The 30-minute ride has a separate rate for ages 13 and under. Children under 3 are not taken.",
+    "bookingUrl": "https://rodsalaskanguideservice.com/dog-sledding/",
+    "website": "https://rodsalaskanguideservice.com/",
+    "sources": [
+      {
+        "url": "https://rodsalaskanguideservice.com/dog-sledding/",
+        "retrieved": "2026-11-24",
+        "what": "North Pole address, fares from $99 to $550, ages, 250-pound rule, November through early April, the 12 November 2026 snow note, and which rides include driving"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "doggoneit-tours",
+    "name": "DogGoneIt Tours",
+    "state": "AK",
+    "town": "Cantwell",
+    "summary": "DogGoneIt Tours is Mike and Caitlin Santos's kennel on Sinyon Creek Road in Cantwell. Guests are picked up from Denali-area lodging, hold puppies, meet the team, and watch a summer training run. A presentation uses photos and video of the Iditarod. The booking item calls that filmed portion a virtual sled dog ride. Guests do not drive a team on this visit.",
+    "season": "The tour page says daily tours in May through October at 8:00 a.m. and 7:00 p.m. The contact page says May through September. A post dated 8 January 2026 says the 2026 season is 15 May through 17 September.",
+    "tourTypes": [
+      "kennel-tour"
+    ],
+    "driveYourOwn": false,
+    "duration": "The booking item says 2.5 to 3 hours including the transfer. About 1.5 hours of that is narration at the kennel. The homepage also describes a 30-minute ride out to the kennel.",
+    "priceMin": 65,
+    "priceMax": null,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-24",
+    "priceNote": "Adults ages 13 and up $65. Children 12 and under $55. The booking headline says starting at $65.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Children 12 and under are $55. The booking headline says the tour is for all ages. No younger cutoff is printed.",
+    "bookingUrl": "https://fareharbor.com/embeds/book/doggoneittours/?full-items=yes",
+    "website": "https://www.doggoneittours.com/",
+    "sources": [
+      {
+        "url": "https://www.doggoneittours.com/doggoneit-tour/",
+        "retrieved": "2026-11-24",
+        "what": "May through October, 8:00 a.m. and 7:00 p.m., $65 and $55, 3-hour visit, puppy time, and a watched training run"
+      },
+      {
+        "url": "https://fareharbor.com/api/v1/companies/doggoneittours/items/162139/",
+        "retrieved": "2026-11-24",
+        "what": "Adults 13 and up $65, children 12 and under $55, 2.5 to 3 hours with transfer, and the virtual sled ride wording"
+      },
+      {
+        "url": "https://www.doggoneittours.com/contact-us/",
+        "retrieved": "2026-11-24",
+        "what": "Cantwell address and a May through September season line"
+      },
+      {
+        "url": "https://www.doggoneittours.com/mushing-in-alaska-what-to-expect-with-the-ultimate-adventure/",
+        "retrieved": "2026-11-24",
+        "what": "Post dated 8 January 2026 giving the 2026 season as 15 May through 17 September"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "alaska-dog-center",
+    "name": "Alaska Dog Center",
+    "state": "AK",
+    "town": "Willow",
+    "summary": "Alaska Dog Center, at Mile 73 of the Parks Highway in Willow, sells kennel visits, a summer ride in a side-by-side pulled by the team, winter sled rides, and an overnight mush. Guests can help harness. On the winter ride they take turns driving a tag sled or sitting in the basket. Retired sled dogs in the kennel's adoption program still go out on the tours.",
+    "season": "Overnight excursions are sold January through April. The day-tour pages list clock times and do not print a summer or winter opening month. Dryland rides run only below 70 F.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own",
+      "kennel-tour",
+      "overnight"
+    ],
+    "driveYourOwn": true,
+    "duration": "Summer kennel tour 60 minutes, with no ride. Dryland ride 60 to 90 minutes, about 10 minutes of that on the track. Winter kennel tour 60 minutes. Winter sled ride is a 2 to 3 hour visit with about 1 hour and 6 to 8 miles on the trail. The overnight runs from 2:00 p.m. on day one to noon on day two and includes a 2 to 3 hour sled ride.",
+    "priceMin": 49,
+    "priceMax": 750,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-24",
+    "priceNote": "Homepage summer kennel card: $49 adults and $25 children. The summer tour page prints $50 for adults 13 and up and $25 for ages 12 and under on that kennel visit. Dryland ride: $99 adults; the summer page says $50 for ages 12 and under, and the homepage card says $49 for children. Winter kennel tour: $59 for adults 13 and up and $35 for ages 12 and under, maximum 12 guests, two-person minimum. Winter sled ride: $140 adults and $99 for ages 12 and under. Overnight: $750 per guest, maximum 4 guests.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Child rates are printed for ages 12 and under on the kennel tours, the dryland ride, and the winter sled ride. No minimum age is stated.",
+    "bookingUrl": "https://www.alaskadogcenter.com/book-tours/",
+    "website": "https://www.alaskadogcenter.com/",
+    "sources": [
+      {
+        "url": "https://www.alaskadogcenter.com/",
+        "retrieved": "2026-11-24",
+        "what": "Willow address at Mile 73, Parks Highway, and the homepage fare cards including the $49 summer kennel rate"
+      },
+      {
+        "url": "https://www.alaskadogcenter.com/summer-tours/",
+        "retrieved": "2026-11-24",
+        "what": "Summer kennel $50 and $25, dryland $99 and $50, 70 F cutoff, and the 10-minute track lap"
+      },
+      {
+        "url": "https://www.alaskadogcenter.com/winter-tours/",
+        "retrieved": "2026-11-24",
+        "what": "Winter sled $140 and $99, tag-sled driving, kennel tour $59 and $35, and the $750 January through April overnight"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "wildthingz-dog-mushing",
+    "name": "Wildthingz Dog Mushing",
+    "state": "AK",
+    "town": "Fox",
+    "summary": "Wildthingz Dog Mushing is Richie Beattie and Emily Rosenblatt's kennel. Winter sled rides leave from their place in Fox, about 30 to 45 minutes outside Fairbanks. A guide drives, and the sled seats two. In summer the same business runs an ATV ride and kennel visit in Cantwell, about 30 minutes south of the Denali park entrance.",
+    "season": "Winter tours October through early April. Summer tours May through September.",
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": false,
+    "duration": "Winter visit about 1 hour 45 minutes and about 6 miles. Summer tour 1 hour 30 minutes. Summer times are 9:30 a.m. and 7:00 p.m. Winter times are 11:30 a.m. and 2:00 p.m.",
+    "priceMin": 128,
+    "priceMax": 250,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-24",
+    "priceNote": "Summer: $128 for adults 11 and up, $113 for a walking child 10 and under, infants free. Winter: $250 per adult and $220 per child under 11. If fall snow is not enough for a sled, the winter page says the tour can run on a side-by-side instead. Summer tours are by appointment.",
+    "minAge": null,
+    "weightLimit": "400 pounds per sled on the winter ride",
+    "kidFriendly": true,
+    "kidNote": "The winter page excludes young babies because of the cold and does not give an age number. Summer infants are free. The summer child rate is for age 10 and under if the child can walk.",
+    "bookingUrl": "https://wildthingzdogmushing.com/winter-tours/",
+    "website": "https://wildthingzdogmushing.com/",
+    "sources": [
+      {
+        "url": "https://wildthingzdogmushing.com/winter-tours/",
+        "retrieved": "2026-11-24",
+        "what": "Fox winter rides, October through early April, $250 and $220, 400-pound sled limit, guide drives, about 6 miles"
+      },
+      {
+        "url": "https://wildthingzdogmushing.com/summer-tours/",
+        "retrieved": "2026-11-24",
+        "what": "Cantwell summer ATV rides May through September, $128, $113, and free infants, 1.5 hours"
+      },
+      {
+        "url": "https://wildthingzdogmushing.com/",
+        "retrieved": "2026-11-24",
+        "what": "Names Richie Beattie and Emily Rosenblatt and says the kennel is in Cantwell and Fairbanks"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "howling-bay-kennel",
+    "name": "Howling Bay Kennel",
+    "state": "AK",
+    "town": "Fairbanks",
+    "summary": "Howling Bay Kennel is Tabitha's family kennel at 3873 Elliott Highway, about 20 minutes north of Fairbanks. The tours page says guests drive the sled on the kennel's trails and then warm up in a geodesic dome. The booking list also has a summer tour in which the dogs pull an ATV. Aurora and hot-springs trips on the same calendar are not sled rides.",
+    "season": "No start or end date is printed. On 24 November 2026 the Dog Sled Adventure calendar listed an 11:00 a.m. to 12:30 p.m. opening on 20 December 2026 and marked it bookable.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": "The Dog Sled Adventure booking item says 1.5 hours. The summer ATV tour does not print a length.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The booking calendar has categories for infants under 1 year, children ages 2 to 11, adults ages 12 to 64, and seniors 65 and older. The Dog Sled Adventure item says infants must sit on laps. No dollar amount was shown for those categories.",
+    "bookingUrl": "https://fareharbor.com/embeds/book/howlingbaykennel/items/506696/?full-items=yes",
+    "website": "https://howlingbaykennel.com/",
+    "sources": [
+      {
+        "url": "https://howlingbaykennel.com/tours/",
+        "retrieved": "2026-11-24",
+        "what": "Guests drive the sled on private trails, and the page links a booking calendar"
+      },
+      {
+        "url": "https://howlingbaykennel.com/contact/",
+        "retrieved": "2026-11-24",
+        "what": "3873 Elliott Highway, Fairbanks, about 20 to 30 minutes north of town"
+      },
+      {
+        "url": "https://fareharbor.com/api/v1/companies/howlingbaykennel/items/506696/",
+        "retrieved": "2026-11-24",
+        "what": "Dog Sled Adventure is 1.5 hours, infants sit on laps, and the item text calls it a guided ride"
+      },
+      {
+        "url": "https://fareharbor.com/api/v1/companies/howlingbaykennel/items/506696/availabilities/2094327634/",
+        "retrieved": "2026-11-24",
+        "what": "Bookable 11:00 a.m. to 12:30 p.m. slot on 20 December 2026, and categories for infants, ages 2 to 11, ages 12 to 64, and 65 and older"
+      },
+      {
+        "url": "https://fareharbor.com/api/v1/companies/howlingbaykennel/items/",
+        "retrieved": "2026-11-24",
+        "what": "Summer Alaskan Sleddog Tour is an ATV ride with the dogs after a kennel introduction"
+      }
+    ],
+    "partnerUrl": null
   }
 ]

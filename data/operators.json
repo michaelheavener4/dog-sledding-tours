@@ -3088,5 +3088,134 @@
       }
     ],
     "partnerUrl": null
+  },
+  {
+    "id": "douglas-fir-mushing",
+    "name": "Douglas Fir Mushing",
+    "state": "AK",
+    "town": "Fairbanks",
+    "summary": "Douglas Fir Mushing is Mandy Nauman Austin and Matt Austin's racing kennel outside Fairbanks. The homepage says the kennel has about 30 dogs. Winter tours leave from their lodge: a private hour that starts with the huskies and continues as a scenic sled ride.",
+    "season": "Sled tours are only in winter, as snow allows, usually mid-November to mid-April. On 25 November 2026 the booking calendar had open slots on 20 December 2026 at 12:00–2:00 p.m. and 2:00–4:00 p.m.",
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": null,
+    "duration": "The tours page says 1 hour: about 30 minutes with the dogs and about 30 minutes on the sled. The 20 December 2026 booking openings were listed as two-hour blocks.",
+    "priceMin": 130,
+    "priceMax": 130,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-25",
+    "priceNote": "Adults $130. Children 10 and under $120. Same-day tours add $20 per person. Visitors who do not take the sled ride are $40. One sled runs at a time, with two people in the sled. Groups are capped at four unless the kennel agrees to more.",
+    "minAge": "5 years",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The minimum age is 5. Children 10 and under have a separate fare.",
+    "bookingUrl": "https://fareharbor.com/embeds/book/douglasfirmushing/items/613442/?full-items=yes&flow=1348790",
+    "website": "https://douglasfirmushing.com/",
+    "sources": [
+      {
+        "url": "https://douglasfirmushing.com/",
+        "retrieved": "2026-11-25",
+        "what": "Mandy Nauman Austin and Matt Austin, outside Fairbanks, about 30 dogs"
+      },
+      {
+        "url": "https://douglasfirmushing.com/tours",
+        "retrieved": "2026-11-25",
+        "what": "Private 1-hour winter tour, adult and child fares, age 5, same-day and tag-along charges, and mid-November to mid-April"
+      },
+      {
+        "url": "https://fareharbor.com/api/v1/companies/douglasfirmushing/items/613442/availabilities/date/2026-12-20/",
+        "retrieved": "2026-11-25",
+        "what": "Bookable Dog Sled Tour openings on 20 December 2026 at 12:00–2:00 p.m. and 2:00–4:00 p.m."
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "fairbanks-dog-sled-rides",
+    "name": "Fairbanks Dog Sled Rides",
+    "state": "AK",
+    "town": "Fairbanks",
+    "summary": "Fairbanks Dog Sled Rides is Two Rivers Trailblazers' tour at 4240 and 4223 Chena Hotsprings Road. A musher drives an approximately two-mile ride after the dogs are harnessed. The same page sells a separate kennel visit and lists dry cabins that are not the sled tour.",
+    "season": null,
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": false,
+    "duration": "About 2 miles. The page does not say how long the ride takes.",
+    "priceMin": 40,
+    "priceMax": 75,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-25",
+    "priceNote": "Kennel tour $40 per person. Basic sled ride $75 per person. The page, copyrighted 2026, says to call or email for a reservation. It does not print a season.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://fairbanksdogsledrides.com/",
+    "website": "https://fairbanksdogsledrides.com/",
+    "sources": [
+      {
+        "url": "https://fairbanksdogsledrides.com/",
+        "retrieved": "2026-11-25",
+        "what": "Two Rivers Trailblazers at 4240 and 4223 Chena Hotsprings Road, musher-driven 2-mile ride at $75, kennel tour at $40, page copyright 2026"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "rancho-luna-lobos",
+    "name": "Rancho Luna Lobos",
+    "state": "UT",
+    "town": "Peoa",
+    "summary": "Rancho Luna Lobos in Peoa sells a dog sled experience on the ranch at 4733 W Browns Canyon Road. Guests meet the racing and rescue pack, then ride a tandem sled with a musher. If packed snow is short, that booking switches to a wheeled safari. A separate kennel tour is on the same booking list.",
+    "season": "No start or end date is printed. On 25 November 2026 the activities page said dry-land rides were running and winter tours were open for booking. The dog sled calendar had a bookable 9:30–11:00 a.m. opening on 10 January 2027.",
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": false,
+    "duration": "About 1.5 to 2 hours, with about 35 minutes on the sled. The 10 January 2027 opening ran 9:30–11:00 a.m.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": "unspecified",
+    "priceAsOf": "2026-11-25",
+    "priceNote": "A third guest may be added for a $50 fee if the sled stays within the weight limit. Booking choices are per sled for 2 guests, or for 3 people when the group includes at least one child age 10 or under. The dollar amount of those sled choices was not printed. If snow is short, the wheeled safari uses the same rate as the sled experience.",
+    "minAge": "3 years recommended",
+    "weightLimit": "375 lb combined per sled",
+    "kidFriendly": true,
+    "kidNote": "The sled experience is recommended for ages 3 and up. The 3-person sled choice must include at least one child age 10 or under. The FAQ says a guide stays on the sled and a guest may help drive.",
+    "bookingUrl": "https://www.lunalobos.com/dog-sled-experiences",
+    "website": "https://www.lunalobos.com/",
+    "sources": [
+      {
+        "url": "https://www.lunalobos.com/dog-sled-experiences",
+        "retrieved": "2026-11-25",
+        "what": "Peoa ranch, sled or wheeled safari depending on snow, and the embedded booking calendar"
+      },
+      {
+        "url": "https://www.lunalobos.com/all-activities-and-services",
+        "retrieved": "2026-11-25",
+        "what": "Dry-land rides currently running and winter tours open for booking"
+      },
+      {
+        "url": "https://www.lunalobos.com/faqs",
+        "retrieved": "2026-11-25",
+        "what": "Guide stays on the sled, about 1.5 to 2 hours with about 35 minutes of sled time, 375 lb sled limit, ages 3 and up recommended"
+      },
+      {
+        "url": "https://fareharbor.com/api/v1/companies/rancholunalobos/items/764064/",
+        "retrieved": "2026-11-25",
+        "what": "Tandem sled with a musher, 375 lb combined limit, $50 third-guest fee, ages 3 and up recommended, 1.5 to 2 hours"
+      },
+      {
+        "url": "https://fareharbor.com/api/v1/companies/rancholunalobos/items/764064/availabilities/date/2027-01-10/",
+        "retrieved": "2026-11-25",
+        "what": "Bookable 9:30–11:00 a.m. opening on 10 January 2027, with per-sled choices for 2 guests or for 3 people including a child 10 or under"
+      }
+    ],
+    "partnerUrl": null
   }
 ]

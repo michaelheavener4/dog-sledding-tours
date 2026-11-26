@@ -31,11 +31,11 @@ Only add an operator whose own site is live and currently selling tours. A name 
 
 ## Coverage
 
-Checked 19–25 November 2026. “With a published price” means the operator’s site showed a dollar figure (per person, per sled, a booking-page amount, or another printed charge). It does not mean every product has a per-person rate.
+Checked 19–26 November 2026. “With a published price” means the operator’s site showed a dollar figure (per person, per sled, a booking-page amount, or another printed charge). It does not mean every product has a per-person rate.
 
 | State | Operators | With a published price | Sources |
 | --- | ---: | ---: | --- |
-| Alaska | 36 | 28 | Operator websites, read 2026-11-19, 2026-11-21, 2026-11-22, 2026-11-23, 2026-11-24, and 2026-11-25 |
+| Alaska | 38 | 30 | Operator websites, read 2026-11-19, 2026-11-21, 2026-11-22, 2026-11-23, 2026-11-24, 2026-11-25, and 2026-11-26 |
 | Arizona | 1 | 1 | Operator website, read 2026-11-20 |
 | Colorado | 12 | 8 | Operator websites, read 2026-11-19, 2026-11-21, and 2026-11-23 |
 | Idaho | 1 | 1 | Operator website, read 2026-11-20 |
@@ -45,14 +45,14 @@ Checked 19–25 November 2026. “With a published price” means the operator�
 | Michigan | 4 | 4 | Operator websites, read 2026-11-19 |
 | Minnesota | 9 | 9 | Operator websites, read 2026-11-19, 2026-11-20, 2026-11-21, and 2026-11-23 |
 | Montana | 6 | 6 | Operator websites, read 2026-11-19, 2026-11-20, and 2026-11-22 |
-| New Hampshire | 1 | 1 | Operator websites, read 2026-11-19 |
+| New Hampshire | 2 | 2 | Operator websites, read 2026-11-19 and 2026-11-26 |
 | New York | 1 | 1 | Operator websites, read 2026-11-19 |
 | Oregon | 1 | 1 | Operator websites, read 2026-11-19 |
 | Utah | 3 | 3 | Operator websites, read 2026-11-19, 2026-11-22, and 2026-11-25 |
 | Vermont | 3 | 2 | Operator websites, read 2026-11-19 and 2026-11-22 |
 | Wisconsin | 1 | 0 | Operator websites, read 2026-11-19 |
 | Wyoming | 4 | 2 | Operator websites, read 2026-11-19, 2026-11-20, and 2026-11-21 |
-| **Total** | **86** | **70** | |
+| **Total** | **89** | **73** | |
 
 Operators with no dollar figure on the pages read: Alaska Sled Dog Tours (Talkeetna), Arctic Dog Adventure Co., Last Frontier Mushing Co-op, Squid Acres Kennel, Alpine Adventures Dogsledding, San Juan Sled Dogs, Idarado Sled Dog Adventures, October Siberians, Wolfsong Adventures in Mushing, Heart Six Guest Ranch, Gold Rush Dog Tours, Team Zappa, Jackson Hole Iditarod Sled Dog Tours, Mountain Musher, Happy Trails Kennel, and Howling Bay Kennel (Fairbanks). Alaska Icefield Expeditions prints a $150 weight surcharge and not the tour fare. Dream a Dream Sled Dog Tours prints $1,049 for the musher school and no fare for the 2–2.5 hour visit.
 
@@ -75,6 +75,7 @@ Operators with no dollar figure on the pages read: Alaska Sled Dog Tours (Talkee
 - Checked 23 November 2026 and not added: Denali Dog Sled Expeditions still prices the 2024–2025 season, and a direct request to `denalidogsled.com` returned HTTP 403. Kiwatchi Adventures has two sites that disagree on tour length and print no season year or price. Deja Vu Sled Dogs in Nome describes rides and asks guests to write; the page has no season, price, or booking calendar. Run By Dogs says the 2026–27 season will open soon. Northwest Dogsled Adventures still has no working operator site. Hotel Yellowstone in Jackson Hole sells the 10-mile and 6-mile Bridger-Teton rides already listed under Continental Divide Dog Sled Adventures. Snow Mountain Ranch is the meeting lot for Redemption Dog Sled Tours, which is the listing. Skagway’s Musher’s Camp is the same Alaska X operation already listed for Juneau. Moose Mountain Inn’s dogsled page does not print a tour fare or a current season. Bearskin Lodge’s Sawtooth dates still do not name a year; the current Sawtooth rides are the Grand Marais listing booked through Border Lakes. Happy Trails Kennel, left out earlier because the site read as a boarding kennel, is included now: `buserdog.com` invites winter bookings and the visit page lists mid-November to mid-April.
 - Checked 24 November 2026 and not added: Alyeska Tours still says Girdwood reservations are for the 2025 season (1 June–31 August). Cosmic Cruisers (`gunnisonsleddogs.com`) describes November–April tours near Crested Butte and says to call for rates; the page has no year, no dollar amount, and no booking calendar. Song in the Woods still titles its winter fees “2013-14” and says they took effect 1 December 2013. `peacepupsdogsledding.com` is a general article, not the Lake Elmore kennel. `teamevergreenkennel.com` no longer resolves to the Marquette kennel. Lodge of Whispering Pines’ current site is cabin rentals and does not list a dogsled trip. White Wolf Dogsled Trips still prints a 2023–2024 price list. `huskyworks.com` did not load a kennel site. Thunder Mountain Dog Sled Tours in Lake Placid and Heywood Kennel in Augusta had no working operator site. Klondike Dreams in West Yellowstone appears on TripAdvisor and tourism pages only. `valleysnowdogz.com` returned HTTP 403. Northwest Dogsled Adventures and `mammothdogteams.com` still do not resolve. Within the Wild’s current site does not sell dog sled tours; it says Winterlake Lodge was sold in 2023. A GetYourGuide Jackson Hole dogsled page is Heart Six Guest Ranch, which is already listed.
 - Checked 25 November 2026 and not added: Seward Helicopter Tours’ Godwin Glacier page is Turning Heads Kennel, already listed, and the page photo filename names that kennel. Alpine Air Alaska’s Girdwood glacier sled is Seavey’s IdidaRide on Punchbowl Glacier, already listed. 10th Mountain Mushing’s services page says Fairbanks and its contact page says Idaho Springs, Colorado; neither page prints a price, a season year, or a booking calendar. `dogsledmaine.com` did not resolve. Nahmakanta Lake Camps’ current homepage is a wilderness camp and does not list a dogsled trip. Lugdon Lodge’s only printed dogsled fare is a December 2020 weekend package. Sirius Sled Dogs Rescue’s current page is a spay-and-neuter program and does not schedule a sled tour. T-Lazy-7 Ranch’s homepage lists snowmobile, horseback, and fishing, not dog sledding. `snowcapssleddogs.com` is not a kennel site. `grandmaraissleddogadventures.com` and `stoneycreeksleddogs.com` did not resolve. Chugach Outfitters mentions cart rides for cruise guests and does not print a price, a season, or a calendar. Montana Sled Dog Adventures’ indexed page prints half-day and full-day fares with no season year. A direct request to `montanasleddogadventures.com` returned HTTP 403.
+- Checked 26 November 2026 and not added: Grand Targhee’s dogsled page is Call of the WYld, already listed, and the printed holiday rates are still the 2024–2025 dates. Salmon Berry Tours’ Talkeetna sled day is Dallas Seavey’s Alaska Sled Dog Tours, already listed. Winter Woods Dog Sled Tours in Whitefish appears on Visit Montana and does not have an operator website. Howling Ridge Kennel in Two Rivers has a live racing site and does not sell a tour; Chena Outdoor Collective, already listed, names that kennel among the teams on its rides. `skookumexpeditions.com` is a parked search page. `briarspatchsleddogs.com` and `mthoodsleddogtours.com` did not resolve. `truenorthexpeditions.com` is a domain-for-sale page. `sierrahuskytours.com` is a coming-soon page. `maryshields.com` is a for-sale lander. `rangeleysleddogs.com`, `rangeleysleddogadventures.com`, and `mainedogsleddingadventures.com` did not resolve. The old Sun Valley Sled Dog Adventures path now lands on a page that is not a kennel. Sunday River’s homepage does not mention dog sledding, and `/explore`, `/things-to-do`, and `/the-mountain/activities` returned 404.
 
 ## GitHub Pages
 

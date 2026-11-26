@@ -3218,4 +3218,163 @@
     ],
     "partnerUrl": null
   }
+,
+  {
+    "id": "dirty-doggs-kennel",
+    "name": "Dirty Doggs Kennel",
+    "state": "AK",
+    "town": "Salcha",
+    "summary": "Dirty Doggs Kennel is the Keck family's kennel at 6913 Sipes Loop in Salcha. Lane Keck took on a sled dog team, and the family sells kennel visits and sled rides while he trains to race the Yukon Quest.",
+    "season": "Winter 2026-2027 tours are scheduled to begin 1 December 2026. No end date is printed. On 26 November 2026 the kennel calendar had bookable one-hour openings on 1 December 2026, and the sled and moonlight calendars had bookable openings on 5 December 2026.",
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": null,
+    "duration": "The dog sled item says 1.5 to 2 hours. The 5 December 2026 sled openings ran 9:00-11:00 a.m. and 1:00-3:00 p.m. The moonlight item says 4 to 5 hours, and that day's opening ran 9:00 p.m. to 2:00 a.m. Kennel openings on 1 December 2026 were one hour.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": "unspecified",
+    "priceAsOf": "2026-11-26",
+    "priceNote": "Kennel tour $50. Dog sled tours from $500. Moonlight sled tours from $650. The dog sled booking is a private sled for 2 to 4 riders, and the booking note says the minimum is two people. The pages do not say whether those dollar amounts are per person or per booking.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://www.dirtydoggskennel.com/tour-info",
+    "website": "https://www.dirtydoggskennel.com/",
+    "sources": [
+      {
+        "url": "https://www.dirtydoggskennel.com/tour-info",
+        "retrieved": "2026-11-26",
+        "what": "Winter 2026-2027 tours begin 1 December 2026, kennel tour $50, dog sled tours from $500, moonlight sled tours from $650"
+      },
+      {
+        "url": "https://www.dirtydoggskennel.com/our-story",
+        "retrieved": "2026-11-26",
+        "what": "Keck family kennel, Lane Keck and the sled dog team, training toward the Yukon Quest"
+      },
+      {
+        "url": "https://www.dirtydoggskennel.com/contact-us",
+        "retrieved": "2026-11-26",
+        "what": "6913 Sipes Loop, Salcha, Alaska"
+      },
+      {
+        "url": "https://fareharbor.com/api/v1/companies/keckleradventuregroup/items/757972/",
+        "retrieved": "2026-11-26",
+        "what": "Dog sled tour is 1.5 to 2 hours and books as a private sled"
+      },
+      {
+        "url": "https://fareharbor.com/api/v1/companies/keckleradventuregroup/items/757972/availabilities/-12842837/",
+        "retrieved": "2026-11-26",
+        "what": "Bookable private sled on 5 December 2026 from 9:00 to 11:00 a.m., minimum two people, up to 4 riders"
+      },
+      {
+        "url": "https://fareharbor.com/api/v1/companies/keckleradventuregroup/items/757971/availabilities/date/2026-12-01/",
+        "retrieved": "2026-11-26",
+        "what": "Bookable one-hour kennel openings on 1 December 2026"
+      },
+      {
+        "url": "https://fareharbor.com/api/v1/companies/keckleradventuregroup/items/757973/",
+        "retrieved": "2026-11-26",
+        "what": "Moonlight sled tour is 4 to 5 hours and includes a kennel visit"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "alaska-wild-lights",
+    "name": "Alaska Wild Lights",
+    "state": "AK",
+    "town": "Ester",
+    "summary": "Alaska Wild Lights sells a one-hour dog mushing ride from its base camp in Ester, at 5575 Old Ridge Trail. A guide drives. Guests meet the team, then ride. The same company also sells northern lights and snowmobile trips, which are not sled rides.",
+    "season": "No start or end date is printed on the dog mushing page. On 26 November 2026 the booking calendar had bookable one-hour openings on 29 November 2026 at 10:00 a.m. and 12:00 p.m., plus more openings through December 2026. The page says the ride is canceled or rescheduled if there is not enough snow.",
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": false,
+    "duration": "1 hour. The 29 November 2026 openings ran 10:00-11:00 a.m. and 12:00-1:00 p.m.",
+    "priceMin": 345,
+    "priceMax": 345,
+    "priceBasis": "mixed",
+    "priceAsOf": "2026-11-26",
+    "priceNote": "Single rider $345. A couple, two people per sled, is $420. A private group is $2,100. The booking item calls the single rider one person per machine and says the couple price is per couple. A $75 credit toward a later direct booking is a reward, not the tour fare.",
+    "minAge": "7 years",
+    "weightLimit": "400 lb combined per sled",
+    "kidFriendly": true,
+    "kidNote": "Guests must be at least 7 to ride. A child under 7 may come to the base camp and meet the dogs but may not board the sled. A parent or guardian has to stay with that child.",
+    "bookingUrl": "https://alaskawildlights.com/dog-mushing/",
+    "website": "https://alaskawildlights.com/",
+    "sources": [
+      {
+        "url": "https://alaskawildlights.com/dog-mushing/",
+        "retrieved": "2026-11-26",
+        "what": "Ester base camp at 5575 Old Ridge Trail, single rider $345, couple $420 for two per sled, private group $2,100, age 7, 400 lb combined, guide drives, 1 hour"
+      },
+      {
+        "url": "https://alaskawildlights.com/",
+        "retrieved": "2026-11-26",
+        "what": "Alaska Wild Lights home page lists dog mushing among its Fairbanks tours"
+      },
+      {
+        "url": "https://fareharbor.com/api/v1/companies/alaska-wildlife-guide/items/746591/availabilities/2140146996/",
+        "retrieved": "2026-11-26",
+        "what": "Bookable 10:00-11:00 a.m. dog mushing opening on 29 November 2026, single rider and per-couple rates"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "northern-exposure-outfitters",
+    "name": "Northern Exposure Outfitters",
+    "state": "NH",
+    "town": "Milan",
+    "summary": "Northern Exposure Outfitters publishes a home base at 52 Long Hill Road in Brookfield, Massachusetts, and a North Country address at 434 West Milan Road in Milan, New Hampshire. The store sells a two-person winter dog sled adventure with musher Bailey Cross Vitello of Team Bailey and says those tours go through New Hampshire. It also sells a fall dryland tour on a motor-less four-wheeled rig or, depending on the trail, a motorized UTV.",
+    "season": null,
+    "tourTypes": [
+      "ride-along"
+    ],
+    "driveYourOwn": null,
+    "duration": null,
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": "unspecified",
+    "priceAsOf": "2026-11-26",
+    "priceNote": "Two-person winter dog sled adventure $300. One additional person on that adventure $100. Two-person dryland rig tour $300. One additional person on the dryland tour $100. The store does not say these amounts are per person, and it does not print a season year.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://northern-exposure-outfitters.square.site/product/two-person-winter-dog-sled-adventure/298",
+    "website": "https://northern-exposure-outfitters.square.site/",
+    "sources": [
+      {
+        "url": "https://northern-exposure-outfitters.square.site/product/two-person-winter-dog-sled-adventure/298",
+        "retrieved": "2026-11-26",
+        "what": "Visible two-person winter dog sled adventure at $300 with Bailey Cross Vitello of Team Bailey, tours through New Hampshire"
+      },
+      {
+        "url": "https://cdn5.editmysite.com/app/store/api/v28/editor/users/130357701/sites/516571116651547631/products/300",
+        "retrieved": "2026-11-26",
+        "what": "Two-person dryland rig tour $300, fall foliage, motor-less four-wheeled rig or motorized UTV depending on the trail"
+      },
+      {
+        "url": "https://cdn5.editmysite.com/app/store/api/v28/editor/users/130357701/sites/516571116651547631/products/299",
+        "retrieved": "2026-11-26",
+        "what": "One additional person on the winter dog sled adventure is $100"
+      },
+      {
+        "url": "https://cdn5.editmysite.com/app/store/api/v28/editor/users/130357701/sites/516571116651547631/products/301",
+        "retrieved": "2026-11-26",
+        "what": "One additional person on the dryland rig tour is $100"
+      },
+      {
+        "url": "https://cdn5.editmysite.com/app/store/api/v28/editor/users/130357701/sites/516571116651547631/store-locations",
+        "retrieved": "2026-11-26",
+        "what": "Home base at 52 Long Hill Road, Brookfield, Massachusetts, and North Country address at 434 West Milan Road, Milan, New Hampshire"
+      }
+    ],
+    "partnerUrl": null
+  }
+
 ]

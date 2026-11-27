@@ -3375,6 +3375,161 @@
       }
     ],
     "partnerUrl": null
+  },
+  {
+    "id": "alaska-aurora-adventures",
+    "name": "Alaska Aurora Adventures",
+    "state": "AK",
+    "town": "Fairbanks",
+    "summary": "Alaska Aurora Adventures sells a dog sled ride with sprint mushers Jason and Amy. Guests are picked up from Fairbanks hotels, visit a racing kennel, and go out on a training lap. The same company also sells aurora viewing, Arctic Circle, and sightseeing trips, which are separate from the sled ride.",
+    "season": "The dog sled page says rides are open all the time. It says the operator typically switches to sleds around Thanksgiving and back to wheels just after Easter, and it does not print a year. On 27 November 2026 the booking item had an opening on 28 November 2026.",
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": null,
+    "duration": "The 28 November 2026 opening runs 10:00 a.m. to 2:00 p.m. The dog sled page lists hotel pickup at 10:00-10:30 a.m. and a return to the hotel between 1 and 2 p.m. The booking item calls the trail a 5 mile training lap.",
+    "priceMin": 120,
+    "priceMax": 120,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-27",
+    "priceNote": "Dog sledding is $120 per person. A Chena Hot Springs and dog sledding combo is $295 per person. The 28 November 2026 opening is one person at $120.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": null,
+    "kidNote": null,
+    "bookingUrl": "https://alaskaauroraadventures.com/dog-sledding",
+    "website": "https://alaskaauroraadventures.com/",
+    "sources": [
+      {
+        "url": "https://alaskaauroraadventures.com/dog-sledding",
+        "retrieved": "2026-11-27",
+        "what": "Dog sledding $120 per person, Fairbanks hotel pickup 10:00-10:30 a.m., return between 1 and 2 p.m., kennel visit with Jason and Amy, rides open all the time, sleds around Thanksgiving and wheels just after Easter"
+      },
+      {
+        "url": "https://alaskaauroraadventures.com/",
+        "retrieved": "2026-11-27",
+        "what": "Homepage lists dog sledding behind the company's own athletes, separate from the aurora and sightseeing trips"
+      },
+      {
+        "url": "https://alaskaauroraadventur.checkfront.com/reserve/inventory/?start_date=20261127&end_date=20261215",
+        "retrieved": "2026-11-27",
+        "what": "Dog sledding item at $120 per person marked available for 27 November through 15 December 2026; Chena Hot Springs and dog sledding combo $295"
+      },
+      {
+        "url": "https://alaskaauroraadventur.checkfront.com/reserve/item/?item_id=10&start_date=20261128",
+        "retrieved": "2026-11-27",
+        "what": "Bookable 10:00 a.m. to 2:00 p.m. dog sledding opening on 28 November 2026 at $120 for one person, described as a 5 mile training lap"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "alaska-homestead-adventures",
+    "name": "Alaska Homestead Adventures",
+    "state": "AK",
+    "town": "Nenana",
+    "summary": "Alaska Homestead Adventures is David and Jenna Jonas's private winter guiding business at the Saskatoon Bluff homestead on the Tanana River. One party of 1 to 4 guests stays in a cabin or a heated wall tent and mushes on a tag sled, with one guest in the front basket and the other driving the back sled. The planning page tells homestead guests to use the Nenana forecast.",
+    "season": "Winter camping trips list 1 December through 30 March. Cabin trips list 10 December through 25 March. The FAQ says trips usually start in early December, once there is enough snow, and run until around 1 April. Arctic basecamp trips list 1-15 April. Those pages do not print a year.",
+    "tourTypes": [
+      "drive-your-own",
+      "ride-along",
+      "overnight"
+    ],
+    "driveYourOwn": true,
+    "duration": "Winter camping trips are 3 to 5 days. A one-night cabin stay counts as two full days, from about 9 a.m. on the first day to 6 p.m. on the second. On the trail, the cabin page says the shortest dog sled trip is about an hour and longer ones can run up to 4 hours.",
+    "priceMin": 750,
+    "priceMax": 1250,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-27",
+    "priceNote": "Winter camping is $750 per person per day for 2 to 4 people and $900 per person per day for one person. A cabin stay for one person is $900 per day. Two people sharing one cabin are $1,500 per day, two people in separate cabins $1,750 per day, three people in two cabins $2,000 per day, and four people in two cabins $2,500 per day. Arctic basecamp trips are listed at $750 to $1,250 per person per day. The FAQ says a $500 deposit holds a trip. The band uses the printed per-person day rates.",
+    "minAge": "Cabin trips say ages 8+. The FAQ says the operator does not take children under 10.",
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "Cabin trips say they are family friendly and ages 8+. The FAQ says the operator does not take children under 10, because the sled can be bouncy and a guest should be comfortable walking about half a mile on uneven ground.",
+    "bookingUrl": "https://alaskahomesteadadventures.com/contact-us",
+    "website": "https://alaskahomesteadadventures.com/",
+    "sources": [
+      {
+        "url": "https://alaskahomesteadadventures.com/winter-camping",
+        "retrieved": "2026-11-27",
+        "what": "Saskatoon Bluff and the Tanana River flats south of Fairbanks, 3 to 5 days, 1 December-30 March, $750 per person per day for 2 to 4 people and $900 for one person, pickup about 40 minutes south of Fairbanks on the Parks Highway"
+      },
+      {
+        "url": "https://alaskahomesteadadventures.com/homestead-cabin-trips",
+        "retrieved": "2026-11-27",
+        "what": "Saskatoon Bluff on the Tanana River, ages 8+, 10 December-25 March, cabin day rates, tag-sled driving, trail time about 1 to 4 hours"
+      },
+      {
+        "url": "https://alaskahomesteadadventures.com/faq-page",
+        "retrieved": "2026-11-27",
+        "what": "Season usually early December until around 1 April, no children under 10, tag sled with a guest driving the back sled, $500 deposit"
+      },
+      {
+        "url": "https://alaskahomesteadadventures.com/planning",
+        "retrieved": "2026-11-27",
+        "what": "Homestead guests are told to use the Nenana forecast"
+      },
+      {
+        "url": "https://alaskahomesteadadventures.com/arctic-basecamp",
+        "retrieved": "2026-11-27",
+        "what": "Arctic basecamp trips 1-15 April at $750 to $1,250 per person per day, starting and ending in Fairbanks"
+      },
+      {
+        "url": "https://alaskahomesteadadventures.com/contact-us",
+        "retrieved": "2026-11-27",
+        "what": "Trips are reserved by writing or by a pre-arranged call, not by an automatic online calendar"
+      },
+      {
+        "url": "https://alaskahomesteadadventures.com/guides",
+        "retrieved": "2026-11-27",
+        "what": "David Jonas and Jenna Hertz Jonas guide the trips"
+      }
+    ],
+    "partnerUrl": null
+  },
+  {
+    "id": "waylons-way-dog-sledding",
+    "name": "Waylon's Way Dog Sledding",
+    "state": "AK",
+    "town": "McCarthy",
+    "summary": "Waylon's Way Dog Sledding is Kenna Conley and Aidan Warner's kennel in McCarthy, inside Wrangell-St. Elias National Park. Summer guests meet the team, help harness, and ride while the dogs pull a UTV. A shorter visit is a kennel tour without the trail run. A musher drives.",
+    "season": "The FAQ says tours run only in summer, because McCarthy has few winter visitors. No month range and no year are printed.",
+    "tourTypes": [
+      "ride-along",
+      "kennel-tour"
+    ],
+    "driveYourOwn": false,
+    "duration": "Summer sled tour about 2 hours, with 15 to 20 minutes on the trail. Kennel tour up to 1 hour.",
+    "priceMin": 35,
+    "priceMax": 110,
+    "priceBasis": "per-person",
+    "priceAsOf": "2026-11-27",
+    "priceNote": "Summer sled dog tour $110 per person. Kennel tour $35 per person. The booking page also describes a longer Nizina River day and does not print a fare for it.",
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The FAQ says the tour is fine for kids and that a parent or guardian has to stay with them for the whole visit. It does not print a minimum age.",
+    "bookingUrl": "https://www.waylonswaydogsledding.com/book",
+    "website": "https://www.waylonswaydogsledding.com/",
+    "sources": [
+      {
+        "url": "https://www.waylonswaydogsledding.com/",
+        "retrieved": "2026-11-27",
+        "what": "McCarthy summer sled dog tour $110 per person for about 2 hours with a 15-20 minute UTV run, kennel tour $35 per person for one hour, run by Kenna Conley and Aidan Warner"
+      },
+      {
+        "url": "https://www.waylonswaydogsledding.com/book",
+        "retrieved": "2026-11-27",
+        "what": "Booking page for the summer sled excursion and the kennel tour, plus a longer Nizina River day with no printed fare"
+      },
+      {
+        "url": "https://www.waylonswaydogsledding.com/faqs",
+        "retrieved": "2026-11-27",
+        "what": "Tours run only in summer, a musher drives, kids may come with a parent or guardian, tours start at the summer dog yard just outside McCarthy"
+      }
+    ],
+    "partnerUrl": null
   }
 
 ]

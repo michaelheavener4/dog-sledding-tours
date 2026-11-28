@@ -3530,6 +3530,49 @@
       }
     ],
     "partnerUrl": null
+  },
+  {
+    "id": "colorado-dog-sledding",
+    "name": "Colorado Dog Sledding",
+    "state": "CO",
+    "town": "Silverthorne",
+    "summary": "Colorado Dog Sledding LLC runs private tours from Acorn Creek Ranch in Silverthorne, at 1001 Longs Road. Dallas Seavey and the guides take one party out with dogs from his Iditarod racing team. Guests meet the dogs at the kennel, then ride. A tag sled lets a guest stand and drive while the guide keeps control of the team.",
+    "season": "No start or end date is printed on the website. On 28 November 2026 the booking calendar had bookable 75-minute openings on 1 December 2026, including 9:30 a.m. The FAQ says Christmas and spring break fill quickly.",
+    "tourTypes": [
+      "ride-along",
+      "drive-your-own"
+    ],
+    "driveYourOwn": true,
+    "duration": "1 hour 15 minutes, with 45 minutes on the sled. The other half hour is meeting the dogs, a kennel look, gearing up, and warming up. The 1 December 2026 9:30 a.m. opening runs until 10:45 a.m.",
+    "priceMin": null,
+    "priceMax": null,
+    "priceBasis": null,
+    "priceAsOf": null,
+    "priceNote": null,
+    "minAge": null,
+    "weightLimit": null,
+    "kidFriendly": true,
+    "kidNote": "The FAQ says the tours are family-friendly and built for a variety of ages and sizes, and it does not print a minimum age. The booking item headline says all ages. Up to 4 guests go out with one team. Groups of more than 4, up to 8, have to call.",
+    "bookingUrl": "https://fareharbor.com/embeds/book/coloradodogsledding/items/585384/?full-items=yes&flow=1276622",
+    "website": "https://coloradodogsledding.com/",
+    "sources": [
+      {
+        "url": "https://coloradodogsledding.com/",
+        "retrieved": "2026-11-28",
+        "what": "Colorado Dog Sledding LLC at Acorn Creek Ranch, 1001 Longs Road, Silverthorne, private family tours, 1 hour 15 minutes with 45 minutes mushing, tag sled while the guide keeps control of the team, up to 4 guests on one team and up to 8 by calling, Book Now opens the operator's FareHarbor calendar"
+      },
+      {
+        "url": "https://fareharbor.com/api/v1/companies/coloradodogsledding/items/585384/",
+        "retrieved": "2026-11-28",
+        "what": "Dog Sledding item headline is All Ages and 75 minutes, and the booking note gives 1001 Longs Road, Silverthorne, with arrival 10 minutes early past the ranch house"
+      },
+      {
+        "url": "https://fareharbor.com/api/v1/companies/coloradodogsledding/items/585384/availabilities/1816352836/",
+        "retrieved": "2026-11-28",
+        "what": "Bookable 9:30 a.m. to 10:45 a.m. opening on 1 December 2026, capacity 4, not sold out, with customer types for one person and groups of 2, 3, and 4. The public item does not print a dollar amount"
+      }
+    ],
+    "partnerUrl": null
   }
 
 ]
